@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="project">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!--Change name to name of your project--></title>
+            <!--Add as many PIs as desired-->
+            <!--Add respStmts here-->
+         </titleStmt>
+         <publicationStmt>
+            <distributor ref="org:DiSA">Digital Scholarship in the Arts</distributor>
+            <distributor ref="org:DHIL">Digital Humanities Innovation Lab</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+     </encodingDesc>
+     <profileDesc>
+        <textClass>
+           <catRef scheme="atn:DocType" target="atn:BornDigital"/>
+        </textClass>
+     </profileDesc>
+     <revisionDesc>
+        <!--Enter details here of major revisions to files-->
+        <change></change>
+     </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>About</head>
+            <p><!--Fill in information here about the project--></p>
+         </div>
+      </body>
+     <back>
+        <listPerson type="contributors">
+           <head>Contributors</head>
+           <person>
+              
+           </person>
+           <!--Enter in your details here, giving yourself an xml:id-->
+           <!--     
+                 <person xml:id="MyName1">
+                     <persName>
+                        <forename></forename>
+                        <surname></surname>
+                        <reg></reg>
+                        <note>
+                           <p>Biographical Statement
+                        </note>
+                     </persName>
+                 </person>
+              -->
+        </listPerson>
+        <listOrg>
+           <org xml:id="DiSA">
+              <orgName>Digital Scholarship in the Arts</orgName>
+           </org>
+           <org xml:id="DHIL">
+              <orgName>Digital Humanities Innovation Lab</orgName>
+           </org>
+           <!--Enter in any organizations to acknowledge—e.g. universities, funders, et cetera-->
+        </listOrg>
+     </back>
+  </text>
+</TEI>

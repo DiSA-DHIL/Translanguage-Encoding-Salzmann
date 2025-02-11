@@ -1,0 +1,21 @@
+name: Validate
+on: 
+    push:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Requisite checkout
+        uses: actions/checkout@v4
+      # Fetch the latest schema from the schema repository  
+      - name: Get schema
+        shell: bash
+        run: |
+            wget -O ${{ github.workspace }}/ATN.rng https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng
+      # Validate the files      
+      - name: Validate files
+        uses: joeytakeda/xml-validate-action@main
+        with:
+            rng: ${{ github.workspace }}/ATN.rng
+            dir: ${{ github.workspace }}/xml
+            failOnError: true
