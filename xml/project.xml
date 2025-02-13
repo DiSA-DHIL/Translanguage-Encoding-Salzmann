@@ -57,7 +57,9 @@
               <orgName>Digital Scholarship in the Arts</orgName>
            </org>
            <org xml:id="DHIL">
-              <orgName>Digital Humanities Innovation Lab</orgName>
+              <orgName>Digital Humanities Innovation Lab</orgName>/org>
+		   <org><
+		   <orgName xml:id="UBC">University of British Columbia</orName>
            </org>
            <!--Enter in any organizations to acknowledge—e.g. universities, funders, et cetera-->
         </listOrg>
