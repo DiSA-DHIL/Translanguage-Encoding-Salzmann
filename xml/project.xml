@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><!--Change name to name of your project--></title>
+            <title>Translanguage Encoding: Addressing Research Questions Between Languages and Selfhood with TEI</title>
             <!--Add as many PIs as desired-->
             <!--Add respStmts here-->
          </titleStmt>
@@ -41,22 +41,16 @@
      <back>
         <listPerson type="contributors">
            <head>Contributors</head>
-           <person>
-              
+           <person xml:id="Braden1">
+		   <forename>Braden</forename>
+		   <surname>Russell</surname>
+		   <note>
+			   <p>Braden is a PhD Candidate in the Department of Central, Eastern and Northern European Studies 
+				   at the University of British Columbia. He is interested in queer German studies, Holocaust studies, 
+				   Jewish studies, and digital humanities.
+		   </note>
+			<p>
            </person>
-           <!--Enter in your details here, giving yourself an xml:id-->
-           <!--     
-                 <person xml:id="MyName1">
-                     <persName>
-                        <forename></forename>
-                        <surname></surname>
-                        <reg></reg>
-                        <note>
-                           <p>Biographical Statement
-                        </note>
-                     </persName>
-                 </person>
-              -->
         </listPerson>
         <listOrg>
            <org xml:id="DiSA">
