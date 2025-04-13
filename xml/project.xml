@@ -113,16 +113,16 @@
         Ich war die Einzige, die das für bescheuert hielt, 
         weil <placeName ref="#mos">Moskau</placeName> böse ist und stinkt, damals wie heute, heute vielleicht noch schlimmer, eine Schlangengrube von Stadt, du kannst nicht mal Milch kaufen, ohne dass dir die Verkäuferin ins Gesicht spuckt. 
         Ich wollte da nicht hin, ich wollte in <placeName ref="#wol">Wolgograd</placeName> bleiben, aber die haben mich überredet, meine Freundinnen haben alle aufgeschrien: <q>›Was, bist du verrückt! 
-        Du bist dann in <placeName ref="#mos">Moskau</placeName> gemeldet, wenn ich die Möglichkeit hätte, ich würde einen arbeitslosen Alkoholiker dafür heiraten, und deiner hat sogar eine Anstellung.‹</q> Eine von denen, <persName ref="dsch">Dascha</persName>, ist als Mätresse zu einem gegangen, der war dreißig Jahre älter, verheiratet, Kinder, all das, und sie war glücklich, weißt du, sie war einfach glücklich, in <persName ref="#mos">Moskau</persName> zu sein. 
+        Du bist dann in <placeName ref="#mos">Moskau</placeName> gemeldet, wenn ich die Möglichkeit hätte, ich würde einen arbeitslosen Alkoholiker dafür heiraten, und deiner hat sogar eine Anstellung.‹</q> Eine von denen, <persName ref="#dsch">Dascha</persName>, ist als Mätresse zu einem gegangen, der war dreißig Jahre älter, verheiratet, Kinder, all das, und sie war glücklich, weißt du, sie war einfach glücklich, in <persName ref="#mos">Moskau</persName> zu sein. 
         Also dachte ich, da muss was dran sein, an diesem <placeName ref="#mos">Moskau</placeName>.«</said></p>
     
     <p>Ich versuchte mir auszumalen, wie sich die Frauen der achtziger Jahre <placeName ref="#mos">Moskau</placeName> vorstellten, und sah nur unter Schnee begrabene Schaukeln, deren verrostetes Gestell in einen fadendurchzogenen Himmel ragte.
         Wie schade, dachte ich, dass ich mir nicht mehr vorstellen kann, als ich kann. Ich konnte nicht mehr geradeaus denken.</p>
 
-    <p>Das Aufkommen von Migräne merkte ich zuallererst am Licht. Es durchschnitt mir die Augäpfel, obwohl <placeName>das Zimmer</placeName>, in dem wir saßen, relativ dunkel war, <persName>Valja</persName> mochte es dunkel, die Gardinen waren zugezogen. 
+    <p>Das Aufkommen von Migräne merkte ich zuallererst am Licht. Es durchschnitt mir die Augäpfel, obwohl <placeName>das Zimmer</placeName>, in dem wir saßen, relativ dunkel war, <persName ref="#val">Valja</persName> mochte es dunkel, die Gardinen waren zugezogen. 
         Dann kam die Geräuschempfindlichkeit, ich wehrte mich dagegen, wollte nicht weg von <persName ref="#val">Valja</persName>, aber dann zirkulierten die Gerüche im Raum, ich begann, alles scharf zu riechen, <persName ref="#val">Valjas</persName> Parfüm brannte mir in der Nase.</p>
 
-<said><p>»Als ich da in <placeName ref="#mos">Moskau</placeName> ankam, wurde mir ein <placeName>Theater</placeName> vorgespielt, ich bin heute noch baff, dass sie sich so viel Mühe gegeben haben. Und dass ich es geschluckt habe. 
+<said who="#val"><p>»Als ich da in <placeName ref="#mos">Moskau</placeName> ankam, wurde mir ein <placeName>Theater</placeName> vorgespielt, ich bin heute noch baff, dass sie sich so viel Mühe gegeben haben. Und dass ich es geschluckt habe. 
     Ich fand <persName ref="#kos">Kostja</persName> zwar hässlich, Sommersprossen überall, ein Rothaariger, damals schon mit dickem Bauch, dünnen Ärmchen, aber dann setzte er sich ans Klavier und fing an zu spielen und schaute mir dabei in die Augen, presste die Lippen aufeinander, blähte die Nasenflügel, und die Eltern sangen mir dazu das Lied, was für innere Werte dieser sensible junge Mann habe, 
     wie belesen er sei, wie rücksichtsvoll er mit seinen Eltern umgehe, mit seinen Nachbarn, wie gern er ins <placeName>Theater</placeName> gehe und in die <placeName>Oper</placeName>.</p></said>
     
@@ -186,7 +186,7 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
         Seine Eltern fanden das gut, nur Opa nicht, sein Opa, der hat rumgeschrien, dass wir unsere Seele an die Christen verkaufen. 
         Der hatte noch die Deutschen erlebt, verstehst du, bei dem stand eh alles ein wenig schräg seither, den eigenen Namen wegzugeben, 
         war für den noch gleichbedeutend wie ab in <placeName>die Gaskammer</placeName>.</p>
-                                                        <!-- The names above Tschepanow is the new name from Berman. Indicating removing the Jewish last name of the character Ask Katia about this. Kostja's name was Pinkerson when growing up -->
+<!-- The names above Tschepanow is the new name from Berman. Indicating removing the Jewish last name of the character Ask Katia about this. Kostja's name was Pinkerson when growing up -->
     Einmal im Monat kam er uns besuchen aus <placeName ref="#pod">Podmoskowje</placeName>, der Gegend, wo die alle herkamen, 
         und <persName ref="#kos">Kostja</persName>s Mutter gab ihm danach Essen mit, damit er nicht verhungert, 
     aber vorher hatte sie genau auf das Haltbarkeitsdatum geschaut und gab ihm nur das mit,
