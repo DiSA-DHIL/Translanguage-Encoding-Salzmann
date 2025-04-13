@@ -42,14 +42,14 @@
         <listPerson type="contributors">
            <head>Contributors</head>
            <person xml:id="Braden1">
-		   <forename>Braden</forename>
-		   <surname>Russell</surname>
-		   <note>
-			   <p>Braden is a PhD Candidate in the Department of Central, Eastern and Northern European Studies 
-				   at the University of British Columbia. He is interested in queer German studies, Holocaust studies, 
-				   Jewish studies, and digital humanities.
-		   </note>
-			<p>
+              <persName>
+              <forename>Braden</forename>
+              <surname>Russell</surname>
+              <reg></reg>
+                 <note>
+			   <p>Braden is a PhD Candidate in the Department of Central, Eastern and                     Northern European Studies 
+				   at the University of British Columbia. He is interested in queer German                 studies, Holocaust studies, Jewish studies, and digital                               humanities.</p></note>
+              </persName>
            </person>
         </listPerson>
         <listOrg>
@@ -57,11 +57,12 @@
               <orgName>Digital Scholarship in the Arts</orgName>
            </org>
            <org xml:id="DHIL">
-              <orgName>Digital Humanities Innovation Lab</orgName>/org>
-		   <org><
-		   <orgName xml:id="UBC">University of British Columbia</orName>
+              <orgName>Digital Humanities Innovation Lab</orgName></org>
+		   <org>
+		   <orgName xml:id="UBC">University of British Columbia</orgName>
            </org>
-           <!--Enter in any organizations to acknowledge—e.g. universities, funders, et cetera-->
+           <org> <orgName xml:id="DigDos">Digital Dostoevsky                                      Project</orgName></org>
+           <!--Enter in any organizations to acknowledge—e.g.universities, funders,-->
         </listOrg>
      </back>
   </text>
