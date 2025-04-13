@@ -366,7 +366,7 @@ Ein festgeschriebenes <lang xml:lang="ru">Я</lang>.</p>
                 
        </body>
             <back> 
-                <div type="editorial">
+               <div type="editorial">
                     <listPerson type="fictional">
                         <person xml:id="ant" sex="male"><persName><forename>Anton</forename></persName></person>
                         <person xml:id="als" sex="female"><persName><forename>Alissa</forename></persName></person>
@@ -392,7 +392,7 @@ Ein festgeschriebenes <lang xml:lang="ru">Я</lang>.</p>
                         <place><country xml:id="deu"><placeName>Deutschland</placeName></country></place>
                         <place><country xml:id="ung"><placeName>Ungarn</placeName></country></place>
                     </listPlace>
-                </div> 
-            </back> 
+               </div>
+         </back> 
    </text>
 </TEI>
