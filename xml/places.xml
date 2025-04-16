@@ -27,9 +27,16 @@
   </teiHeader>
   <text>
       <body>
-         <listPlace>
-            <place></place>
-         </listPlace>
+            <listPlace type="editorial">
+               <place type="city" plc="wol"><placeName>Wolograd</placeName></place>
+               <place type="city" plc="mos"><placeName>Moskau</placeName></place>
+               <place><country plc="isr">Israel</country></place>
+               <place type="federation" plc="soj"><country><placeName>die Sowjetunion</placeName></country></place>
+               <place type="suburb"><placeName plc="pod">Podmoskowje</placeName></place>
+               <place type="suburb"><placeName plc="tsc">Tschertanowo</placeName></place>
+               <place><country plc="deu"><placeName>Deutschland</placeName></country></place>
+               <place><country plc="ung"><placeName>Ungarn</placeName></country></place>
+            </listPlace>
       </body>
   </text>
 </TEI>
