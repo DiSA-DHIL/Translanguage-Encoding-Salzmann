@@ -194,12 +194,12 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
 
     <p>Das Ich unter mir lachte mechanisch auf. Sie schaute es an, sie hatte sich an das Blech meiner brechenden Stimme noch nicht gewöhnt. Wie auch. Sie fand es nicht lustig.</p>
 
-    <p>»<placeName ref="#tsc">Tschertanowo</placeName> war die äußerste Kruste der Stadt, du musstest nur ein Mal durch den <placeName>Wald</placeName>, und schon warst du in <placeName ref="#pod">Podmoskowje</placeName>.
+    <p>»<placeName ref="plc:tsc">Tschertanowo</placeName> war die äußerste Kruste der Stadt, du musstest nur ein Mal durch den <placeName>Wald</placeName>, und schon warst du in <placeName ref="plc:pod">Podmoskowje</placeName>.
         Aber lauf die Strecke mal als alter Mann. Er tat es jedenfalls. 
         Kam außer Puste bei uns an, setzte sich an den Tisch und aß mit beiden Händen.</p>
 
     <said><p>Wir wohnten in diesem Drecksbezirk, unbetretbare Zone, da fuhren noch nicht mal Taxis freiwillig hin.
-        Das wusste ich damals natürlich nicht, als ich nach <placeName ref="#mos">Moskau</placeName> kam, jeden zweiten Tag entweder ein Toter oder eine Vergewaltigung im Haus, du denkst jetzt, ich übertreibe, das ist ein Segen, dass du das denken kannst. 
+        Das wusste ich damals natürlich nicht, als ich nach <placeName ref="plc:mos">Moskau</placeName> kam, jeden zweiten Tag entweder ein Toter oder eine Vergewaltigung im Haus, du denkst jetzt, ich übertreibe, das ist ein Segen, dass du das denken kannst. 
         Dafür habe ich dich hierhergebracht, damit du mir diese Geschichten nicht glaubst und denkst, das muss übertrieben sein, dass die Sechzehnjährige von nebenan vergewaltigt und ermordet im <placeName>Treppenhaus</placeName> gefunden wurde,
         und dem Nachbarn von gegenüber, einem Schuster, zwei Meter mal zwei Meter groß, dem hat man eine Flasche über den Schädel gezogen, 
         um seine Tasche zu klauen, gleich vor unserem Haus, genau dort ist er verblutet. 
@@ -224,7 +224,7 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
 
     <p><said>»Ich glaube, sie hat mir leidgetan.«</said></p>
 
-    <p>Hörte <persName ref="pers:val">Valja</persName> von irgendwo sagen: <said>»Die Schwiegereltern hatten nur einen einzigen Freund gehabt, der war aus demselben Dorf nach <placeName ref="#mos">Moskau</placeName> gezogen. 
+    <p>Hörte <persName ref="pers:val">Valja</persName> von irgendwo sagen: <said>»Die Schwiegereltern hatten nur einen einzigen Freund gehabt, der war aus demselben Dorf nach <placeName ref="plc:mos">Moskau</placeName> gezogen. 
     Das war der Einzige, der mal bei uns zu Besuch war, der kam oft, und hätte ich nicht gewusst, dass die sich niemals mit einem Bettler abgegeben hätten, hätte ich darauf gewettet, dass er einer war. 
     Er sah so aus, und er roch auch so. Ein Stiller war das, fast zärtlich zu den beiden, ich habe nie einen Menschen gesehen, der so mit ihnen gesprochen hat, schon gar nicht ihr eigener Sohn, und sie waren fast menschlich zu diesem einen Freund, ich erinnere mich jetzt nicht an den Namen. 
     Allerdings kann es auch sein, dass er so oft kam, weil seine Frau immer Urin getrunken hat.«</said></p>
@@ -250,7 +250,7 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
     Dieses Gemälde hatte mich schon immer eingeschüchtert, weil das Öl seine Pupillen aussehen ließ, als würden sie pulsieren. 
     Ich schaute fragend zurück.</p>
 
-    <said><p><persName ref="pers:val">Valja</persName> sagte:»Wir hatten immer viel zu essen, so viel, dass ich gleich dreißig Kilo zugelegt habe im ersten Jahr in <placeName ref= "plc:mos">Moskau</placeName>. 
+    <said><p><persName ref="pers:val">Valja</persName> sagte:»Wir hatten immer viel zu essen, so viel, dass ich gleich dreißig Kilo zugelegt habe im ersten Jahr in <placeName ref="plc:mos">Moskau</placeName>. 
         Die haben mich gemästet, als wäre es ihnen peinlich, dass die Professorenenkelin so mager war, das waren ja Kriegskinder, da musste alles mit viel Fett und Kartoffeln sein.</p>
 
 <p>Die Schwiegermutter hat sich Butter auf die Hände geschmiert, damit sie nicht so rissig waren, den Geruch von sowjetischer Butter auf ihren Händen vergesse ich nicht. 
@@ -293,7 +293,7 @@ ich wette, sie hat sie irgendwem geschenkt, als sie über das Verfallsdatum drü
         Da war eine ganze Welle, die nach <placeName ref="plc:isr">Israel</placeName> gegangen ist, es kamen massenhaft Einladungen, im Sinne von: Bei euch ist es unruhig und gefährlich, bei uns wachsen Mangos an den Bäumen. 
         Die nahmen alle auf. Ob Juden, ob Russen, die sich gerade einen Namen gekauft hatten, der auf -berg oder -man oder -stein endete. 
         Die nahmen alles, was nach Jude klang und in die Wüste wollte. 
-        Ich weiß noch, wie die Schwiegermutter sagte: <q><said who="#val" toWhom="#emm">›Das ist ein Trick! Die Russen wollen rauskriegen, wo Juden wohnen! Sie registrieren euch und transportieren euch ab! Denkt ihr, sie fahren die nach <placeName ref="#isr">Israel</placeName>? 
+        Ich weiß noch, wie die Schwiegermutter sagte: <q><said who="#val" toWhom="#emm">›Das ist ein Trick! Die Russen wollen rauskriegen, wo Juden wohnen! Sie registrieren euch und transportieren euch ab! Denkt ihr, sie fahren die nach <placeName ref="plc:isr">Israel</placeName>? 
             Wie blöd kann man sein! In die <placeName>Gulags</placeName> werden die gebracht, in die <placeName>Gulags</placeName>.‹</said></q>«</said></p>
 <!--  I think Valja's mother in law is Emma i need to double check this -->
 <p>Und hier lachte <persName ref="pers:val">Valja</persName>. Es kam ganz unvermittelt aus ihr raus, sie war selber davon überrascht und hielt sich den Mund mit einer Hand zu, mit der anderen suchte sie nach etwas auf dem Schreibtisch, was sie nicht greifen konnte. 
@@ -319,7 +319,7 @@ Aber <persName ref="pers:kos">Kostja</persName>s Eltern wussten das, sie drohten
 
     <p>Vor mir blitzte eine Messerklinge auf, ich sah meinen Vater einen Tisch durch <placeName>die Küche</placeName> schleudern, ich sah die erstarrten Gesichter, weil ich sie von Fotografien kannte, ich rief Bilder ab, von denen ich dachte, dass ich sie jetzt haben musste.</p>
 
-   <p><persName ref="#val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Ich hatte keine Vorstellung von <placeName>Deutschland</placeName>. Ich hatte keine Vorstellung von irgendwas, habe mir nichts ausgemalt, mir nichts gewünscht. Man sagt, man will eine goldene Zukunft für die Kinder, ja, ja, das ist richtig, aber das ist nicht, was man dann denkt. 
+   <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Ich hatte keine Vorstellung von <placeName>Deutschland</placeName>. Ich hatte keine Vorstellung von irgendwas, habe mir nichts ausgemalt, mir nichts gewünscht. Man sagt, man will eine goldene Zukunft für die Kinder, ja, ja, das ist richtig, aber das ist nicht, was man dann denkt. 
         Man denkt gar nichts. Man fühlt sich wie ein Stein, der rollt.«</said></p>
 
 <p>Ich schwebte über uns und sah zu, wie dieses andere Ich von mir meiner Mutter zuhörte, als sie vom Umzug erzählte. 
