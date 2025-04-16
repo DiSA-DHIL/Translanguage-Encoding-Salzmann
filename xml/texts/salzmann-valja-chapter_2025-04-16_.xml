@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="salzmann-valja-chapter_2025-04-16">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Translanguage Encoding: Addressing Research Questions Between Languages and Selfhood with TEI</title>
+            <!--Add as many PIs as desired-->
+            <!--Add respStmts here-->
+         </titleStmt>
+         <publicationStmt>
+            <distributor ref="org:DiSA">Digital Scholarship in the Arts</distributor>
+            <distributor ref="org:DHIL">Digital Humanities Innovation Lab</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+     </encodingDesc>
+     <profileDesc>
+        <textClass>
+           <catRef scheme="atn:DocType" target="atn:BornDigital"/>
+        </textClass>
+     </profileDesc>
+     <revisionDesc>
+        <!--Enter details here of major revisions to files-->
+        <change></change>
+     </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>About</head>
+            <p><!--Fill in information here about the project--></p>
+         </div>
+      </body>
+     <back>
+        <listPerson type="contributors">
+           <head>Contributors</head>
+           <person xml:id="Braden1">
+              <persName>
+              <forename>Braden</forename>
+              <surname>Russell</surname>
+              <reg></reg>
+                 <note>
+			   <p>Braden is a PhD Candidate in the Department of Central, Eastern and Northern European Studies at the University of British Columbia. He is interested in queer German studies, Holocaust studies, Jewish studies, and digital humanities.</p></note>
+              </persName>
+           </person>
+           <person><persName>
+              <forename>Katherine</forename>
+              <surname>Bowers</surname>
+              <reg></reg>
+              <note>Dr. Katherine Bowers is an Associate Professor of Slavic Studies in the Department of Central Eastern and Northern European Studiess at the University of British Columbia. Dr. Bowers is the Braden's direct faculty mentor for the UBC PhD Co-lab project.</note> <!--> add the real title of the Co-Lab Project project <!-->
+           </persName></person>
+        </listPerson>
+        <listOrg>
+           <org xml:id="DiSA">
+              <orgName>Digital Scholarship in the Arts</orgName>
+           </org>
+           <org xml:id="DHIL">
+              <orgName>Digital Humanities Innovation Lab</orgName></org>
+		   <org>
+		   <orgName xml:id="UBC">University of British Columbia</orgName>
+           </org>
+           <org> <orgName xml:id="DigDos">Digital Dostoevsky Project</orgName></org>
+           <!--Enter in any organizations to acknowledge—e.g.universities, funders,-->
+        </listOrg>
+     </back>
+  </text>
+   <text>  
+            <body>
+                
+                <div type="part" n="1">
+                     <!-- Part one is identified in the begining of the Salzmann's novel. I am working on a chapter that is located in the middle of the novel.-->
+                  
+                     
+<div type="chapter" n="9">      
+    
+    <p><persName ref="#val">Valja</persName></p>
+
+<p><said who="#val" toWhom="#ali" aloud="true">»Ich habe <persName ref="#kos">Kostja</persName> kennengelernt an dem Tag, als er gerade sein Ingenieursdiplom nach Hause gebracht hatte, und so hat man ihn mir präsentiert: fertiger Mann mit fertigem Diplom, Arbeitsstelle gesichert, jetzt fehlte nur noch eine Frau, und nicht irgendeine, eine Jüdin musste es sein, und ich steh vor der Tür. 
+    Kannst du dir das Bild vorstellen, ja? Die haben ihre Zähne in mich geschlagen, ich habe heute noch die Abdrücke davon. 
+    Am vierten Tag hat <persName ref="#kos">Kostja</persName> mir einfach gesagt: Du bist meine Frau, der hat noch nicht mal gefragt, niemand hat mich je gefragt, und niemand hat auf meine Antwort gewartet. 
+    Dabei hat er eine andere geliebt, eine Schickse, wie sie im Buche steht, das war seine große Liebe, hätte er doch nur damals die Eier gehabt, sie zu heiraten.«</said></p>
+
+    <p>Das war der Moment, in dem ich merkte, dass ich mich selber belogen hatte, als ich dachte, ganz gleich, was sie mir sagen wird, ich will es hören.</p>
+
+    <p>Heute hatte <persName ref="#val">Valja</persName>eine grüne Bluse mit einem unauffälligen Karomuster an. 
+        Sie saß eng an ihren schmalen Schultern und floss über ihren Körper, der so groß sein konnte, wenn sie sich aufrichtete. Sie schaute mich nicht an, sie schaute durch mich hindurch, las von meinem Gesicht einen Text ab wie ein Nachrichtensprecher von seinem Bildschirm, aber in ihrem Fall waren es die Nachrichten von gestern, deren Nachwirkungen Falten um ihre Mundwinkel hinterlassen hatten. 
+        Von der Oberlippe zog eine kleine Ausstülpung nach unten, ich glaube, sie hat nie viel gelächelt, aber nicht, weil sie kein fröhlicher Mensch gewesen wäre, im Gegenteil, meine Mutter war mehr zum Lachen aufgelegt als irgendwer sonst in unserer Familie, aber Lachen gehörte nicht in die Zeit, die sie geschaffen hatte, es gehörte nicht an diesen ominösen Ort Sozialismus, aus dem sie kam, nicht zum Umgang miteinander. 
+        Aber innen drin lachte sie viel, das sah ich an ihren Augen.</p>
+
+    <p>Sie sprach in mehreren Sprachen gleichzeitig, mischte sie je nach Farbe und Geschmack der Erinnerung zu Sätzen zusammen, die etwas anderes erzählten als ihren Inhalt, es klang, als wäre ihre Sprache ein amorphes Gemisch aus all dem, was sie war und was niemals nur in einer Version der Geschichte, in einer Sprache Platz gefunden hätte.</p>
+
+    <said><p>Sie sagte:»Ich hätte ihn nicht geheiratet, wenn ich nicht schwanger geworden wäre. Ich hätte ihn verlassen gleich nach dem ersten Streit, gleich nach dem ersten Schlag, als ich sein aufgedunsenes, rotes Gesicht zum ersten Mal sah. Versteh mich nicht falsch, ich bereue es nicht, das heißt, 
+    ich bereue es nicht, euch gekriegt zu haben, aber Kinder muss man schnell kriegen, bevor man Zeit hat, sich kennenzulernen und dann enttäuscht zu sein, sonst würde niemand Kinder kriegen, und die Welt würde aussterben, <placeName>die Sowjetunion</placeName> jedenfalls bestimmt.</p> <p>Bei uns gab es kein Wort für Liebe, wir hatten keine Vorstellung davon, wir konnten uns kein Bild machen oder keinen … wie sagt man … wir hatten keinen Vergleich. Und wir hatten keine Zeit.
+        Keine Zeit für gebrochene Herzen, wir haben doch den Sozialismus aufgebaut. </p>
+<p>Natürlich gab es Mädchen mit verheulten Augen auf den Toiletten der Universität, ich habe das nie verstanden. 
+    Dass die sich nicht schämten, mit verschmiertem Make-up rumzulaufen. Ich hätte mir dafür selbst links und rechts eine runtergehauen. 
+    Einerseits. Aber andererseits hätte ich ja auch geheult, mich geohrfeigt und geheult, wenn ich gewusst hätte, wofür. Für wen heulen.«</p></said>
+
+    <p>Ich wusste nicht, ob es an ihrer Stimme lag, die hochrutschte, oder ob es meine Empfindlichkeit war, Schallwellen fingen an, mein Gehirn von der einen Innenseite des Schädels zur anderen zu schleudern. Etwas Pelziges kroch mir die Kehle hoch, meine Schläfen drückten nach außen, und ich merkte, wie meine Mutter, die gerade dabei war, sich mit Hilfe von Bruchstücken ihrer Geschichte selbst zusammenzusetzen, vor meinen Augen undeutlicher wurde. 
+        Für einen Migräneanfall war jetzt nicht der richtige Zeitpunkt. Zusammenbrüche wurden bei uns in der Familie stets aufgeschoben, vertagt auf die Einsamkeit leerer Räume. Außerdem wusste ich, dass <persName ref="#val">Valja</persName> noch nicht mal richtig angefangen hatte.</p>
+
+    <p>Ich war ohne Vorahnungen gekommen, ich kam durch die Tür einer <placeName>Wohnung</placeName>, an die ich mehr Erinnerungen hatte, als ich dachte. Nur die Dimensionen, die Höhe der Decke, die Größe der Räume, auch die Möbel, erinnerte ich anders. <persName ref="#val">Valja</persName> saß auch nicht mehr am Küchentisch, wo ich sie immer vorfand in meiner Vorstellung, sie saß in ihrem Schlafzimmer am Schreibtisch, drückte ihren Rücken gegen die Glasplatte hinter ihr,
+        ihre Hände lagen auf den Plastiklehnen des Drehstuhls, über ihr schaute <persName ref="#sch">Schura</persName> von einem Ölgemälde auf uns herunter, und ich liebte sie in diesen Augenblicken so sehr, dass es mich drängte, von der Bettkante herunterzurutschen und meinen Kopf auf ihre Knie zu legen, aber ich rührte mich nicht, weil ich sie nicht unterbrechen wollte.</p>
+
+    <p><said>»Aber ich denke doch, ich hätte mich wehren sollen, hätte in <placeName ref="#wol">Wolgograd</placeName> bleiben sollen, ich wollte ja gar nicht nach <placeName ref="#mos">Moskau</placeName>, alle dachten, man muss nach <placeName ref="#mos">Moskau</placeName> heiraten, ich nicht. 
+        Ich war die Einzige, die das für bescheuert hielt, 
+        weil <placeName ref="#mos">Moskau</placeName> böse ist und stinkt, damals wie heute, heute vielleicht noch schlimmer, eine Schlangengrube von Stadt, du kannst nicht mal Milch kaufen, ohne dass dir die Verkäuferin ins Gesicht spuckt. 
+        Ich wollte da nicht hin, ich wollte in <placeName ref="#wol">Wolgograd</placeName> bleiben, aber die haben mich überredet, meine Freundinnen haben alle aufgeschrien: <q>›Was, bist du verrückt! 
+        Du bist dann in <placeName ref="#mos">Moskau</placeName> gemeldet, wenn ich die Möglichkeit hätte, ich würde einen arbeitslosen Alkoholiker dafür heiraten, und deiner hat sogar eine Anstellung.‹</q> Eine von denen, <persName ref="#dsch">Dascha</persName>, ist als Mätresse zu einem gegangen, der war dreißig Jahre älter, verheiratet, Kinder, all das, und sie war glücklich, weißt du, sie war einfach glücklich, in <persName ref="#mos">Moskau</persName> zu sein. 
+        Also dachte ich, da muss was dran sein, an diesem <placeName ref="#mos">Moskau</placeName>.«</said></p>
+    
+    <p>Ich versuchte mir auszumalen, wie sich die Frauen der achtziger Jahre <placeName ref="#mos">Moskau</placeName> vorstellten, und sah nur unter Schnee begrabene Schaukeln, deren verrostetes Gestell in einen fadendurchzogenen Himmel ragte.
+        Wie schade, dachte ich, dass ich mir nicht mehr vorstellen kann, als ich kann. Ich konnte nicht mehr geradeaus denken.</p>
+
+    <p>Das Aufkommen von Migräne merkte ich zuallererst am Licht. Es durchschnitt mir die Augäpfel, obwohl <placeName>das Zimmer</placeName>, in dem wir saßen, relativ dunkel war, <persName ref="#val">Valja</persName> mochte es dunkel, die Gardinen waren zugezogen. 
+        Dann kam die Geräuschempfindlichkeit, ich wehrte mich dagegen, wollte nicht weg von <persName ref="#val">Valja</persName>, aber dann zirkulierten die Gerüche im Raum, ich begann, alles scharf zu riechen, <persName ref="#val">Valjas</persName> Parfüm brannte mir in der Nase.</p>
+
+<said who="#val"><p>»Als ich da in <placeName ref="#mos">Moskau</placeName> ankam, wurde mir ein <placeName>Theater</placeName> vorgespielt, ich bin heute noch baff, dass sie sich so viel Mühe gegeben haben. Und dass ich es geschluckt habe. 
+    Ich fand <persName ref="#kos">Kostja</persName> zwar hässlich, Sommersprossen überall, ein Rothaariger, damals schon mit dickem Bauch, dünnen Ärmchen, aber dann setzte er sich ans Klavier und fing an zu spielen und schaute mir dabei in die Augen, presste die Lippen aufeinander, blähte die Nasenflügel, und die Eltern sangen mir dazu das Lied, was für innere Werte dieser sensible junge Mann habe, 
+    wie belesen er sei, wie rücksichtsvoll er mit seinen Eltern umgehe, mit seinen Nachbarn, wie gern er ins <placeName>Theater</placeName> gehe und in die <placeName>Oper</placeName>.</p></said>
+    
+    <said><p>Am Anfang führte mich <persName ref="#kos">Kostja</persName> noch aus, tagsüber ins <placeName>Museum</placeName>, abends ins <placeName>Theater</placeName>, kannst du dir das vorstellen? <persName ref="#kos">Kostja</persName> im <placeName>Museum</placeName>? Und weißt du, was lustig war? Er hat ja damals schon so viel gefressen, immer vor dem Theaterbesuch alles durcheinander in sich reingeschaufelt, saure Sahne auf Rind mit Zwiebeln und all das, und während der Aufführung hatte er dann Blähungen, 
+        und ich meine, nicht nur an einem Abend, sondern tatsächlich an allen, an denen er mich ausgeführt hat. Also jedes Mal, wenn wir ins <placeName>Theater</placeName> gingen und das Licht ausging, ging das Orchester in seinem Bauch los, und entweder rülpste er, oder er furzte, und ich habe so gelitten, für ihn gelitten, er hat mir so leidgetan, verstehst du, ich dachte daran, wie unangenehm ihm das sein musste, der Arme will mir Avancen machen und blamiert sich vor der ganzen Stadt.
+        Aber heute denke ich, ihm ist das buchstäblich am Arsch vorbeigegangen. Was heißt, ich denke, ich weiß es mit Sicherheit.«</p></said>
+    
+    <p>Immer wenn ich merke, dass es für Menschen eine Vorstellung von Welt gibt, auf die sie ohne Zweifel bauen, fühle ich mich allein. 
+        Ausgeliefert. Sie sprechen davon, Dinge mit Sicherheit zu wissen, sie erzählen, wie etwas gewesen ist oder sogar wie etwas sein wird, und ich merke dann immer, wie sehr ich nichts weiß von dem, was als Nächstes passieren könnte. 
+        Ich weiß ja noch nicht mal, als was ich angesprochen werde, wenn ich Zigaretten kaufen gehe – als ein Er oder als eine Sie? Mein Gesicht überrascht mich jeden Morgen im Spiegel, und ich bin skeptisch gegenüber jeder Prognose. 
+        Meine Schläfen drücken oft. Das lähmt mich für Tage. Aber ich wollte <persName ref="#val">Valja</persName> nicht belästigen mit der Kompliziertheit meiner Gefühle, die auf Testosteron Achterbahn fuhren, als wäre ich in einer permanenten Adoleszenz. 
+        Ich war gekommen, um zuzuhören.</p> 
+
+    <p>»Ich erinnere mich, Mama rief zwischendurch an, die war wieder irgendwo, <placeName ref="#ung">Ungarn</placeName> oder <placeName>Tschechoslowakei</placeName>, und fragte, ob <persName>Kostja</persName> mir schon einen Heiratsantrag gemacht hatte. Und ich sagte, Mama, ich kenne ihn doch noch gar nicht, wir haben uns gerade erst kennengelernt. Und sie sagte, Gefühle kommen mit den Jahren, Tochter.«</p>
+
+    <p>Plötzlich kriegte ich Angst vor einem Hörsturz, so wie damals, als ich verstanden habe, dass <persName>Anton</persName> wirklich weg war. Irgendetwas in mir begann zu rennen, lief gegen meine Innenwände und wollte unbedingt raus.</p>
+
+    <p><persName>Valja</persName> sagte: <said>»Schwanger geworden bin ich schnell. 
+        Unsere Männer verhüten nicht, Abtreibung war das übliche Verhütungsmittel, aber nach der zweiten Abtreibung bei <persName>Iwan</persName> hatte ich keine Lust mehr und ließ mir so eine hundertfünfzig Prozent sichere, sowjetisch geprüfte Spirale einsetzen. 
+        Kaum war sie drin, wurde ich mit euch schwanger.«</said></p>
+
+    <p><persName>Valja</persName> fragte mich nicht mehr, wann ich ihr Enkelkinder auf die Welt bringen würde. Seit sie mich mit einem Dreitagebart gesehen hatte, hat sie aufgehört, zu fragen, das fand ich schön. 
+    Früher waren die Enkelkinder das Gesprächsthema Nummer zwei gleich nach meinen schlechten Essgewohnheiten – das Desinteresse meines Uterus.
+    Die westliche Angewohnheit, nur für sich zu leben, statt etwas in die Welt zu setzen, was noch weniger eine Chance hatte als man selbst. 
+    Aber seit meine Schultern breiter geworden waren, die Muskeln an meinen Oberarmen deutlicher hervortraten und ich meine Mutter hochheben konnte zur Begrüßung, fragte sie nicht mehr.</p>
+
+    <p><said>»Ich war darauf nicht vorbereitet, ich war total fertig, das ging mir zu schnell, ich wusste nicht, wo ich bin und mit wem ich bin, und dann musste noch viel schneller geheiratet werden als ohnehin geplant. 
+        Eigentlich dachten wir, wir machen alles im Sommer an der <placeName>Wolga</placeName>, aber weil ich schon schwanger war, mussten wir im Winter heiraten. Im Moskauer Winter, im Moskauer Dreck, den man auf der weißen Strumpfhose bis über die Knöchel hoch sah, so sind wir ins <placeName>Standesamt</placeName> gegangen. Weißt du, wie schwer es war, damals weiße Strumpfhosen zu bekommen? Das waren meine ersten Nylons. 
+        Ich habe Fleck für Fleck, Spritzer für Spritzer mit den Fingernägeln auf dem Damenklo versucht abzukratzen, ohne dass sie reißt. Hat nicht viel gebracht, auf den Hochzeitsfotos sehe ich aus wie ein Dalmatiner. Die Schwiegermutter hat sich noch lange lustig gemacht. 
+        Und dann ging alles noch schneller, viel zu schnell. Von da an weiß ich nur – ihr seid gekommen. Zu früh.«</said></p>
+
+    <p>Ich hätte nicht gedacht, dass sie darüber sprechen würde. Tat sie auch nicht. 
+        Sie tat es auf ihre eigene Art und Weise, durch Auslassung dessen, wonach ich mich niemals getraut hätte zu fragen, sie konnte nicht mehr sagen als: 
+        <said>»<persName ref="#kos">Kostja</persName> hat seinen Geburtstag gefeiert. Ich wollte eigentlich zu <persName ref="#">Etinka</persName> nach <placeName ref="#wol">Wolgograd</placeName> und dort entbinden, aber es sollte nicht sein. <persName ref="#kos">Kostja</persName> hatte diese Geburtstagsfeier und –«</said></p>
+
+    <p>Ich sah <persName ref="#val">Valja</persName> verschwommen, erahnte ihre Konturen mehr, als dass ich sie sah, die Luft war trocken, erst jetzt merkte ich, dass sie die Heizung voll aufgedreht haben musste. 
+        Sie fror immer, ihr war immer kalt. Mir auch. Und bevor etwas platzen konnte, in mir, in meinen Ohren, haute ich ab.
+    Ich ging raus aus mir. Mein Körper blieb starr vor <persName ref="#val">Valja</persName> sitzen, während ich aus mir heraussprang, nach draußen, ich war außerhalb, das Zuhören konnte mir nichts mehr anhaben.</p>
+
+    <p><said>»Er hat seinen Geburtstag gefeiert und … Und auf jeden Fall … früh einsetzende Wehen, 
+        in unserem Auto kein Sprit, er noch völlig besoffen, der Krankenwagen kam dann nach zwei Stunden oder drei oder vier.
+        Ab in den <placeName>Kreißsaal</placeName>, wo schon fünfzehn andere Kühe im Kreis lagen mit gespreizten Beinen und muhten. 
+        Und ich mit Hämatomen am ganzen Körper und hatte das Gefühl, das Köpfchen guckt schon raus, deins, das war dein Köpfchen,
+        das weiß ich, wie ich da in den <placeName>Saal</placeName> marschiere.«</said></p>
+
+    <p><persName ref="val">Valja</persName> sah auf die <placeName>Wand</placeName> hinter mir, sah nicht, 
+        dass ich ihr wieder entwischte, mich verabschiedete, sie redete durch meinen Körper hindurch, immer weiter.</p>
+
+    <p><said>»Zuerst gab es keine Liege für mich, ich habe mir gewünscht, irgendwer würde mich tragen, weil ich Angst hatte, dass ich das Köpfchen, 
+        das da aus mir rauskommt, zerquetsche beim Gehen, dann riss ich auch noch komplett auf, du hast mich aufgerissen, 
+        ich hatte das Gefühl, entweder ich zerquetsche dich, oder du zerreißt mich.
+        Pressen, drücken, reißen. Und da sind wir heute. Wir haben es geschafft, darauf hätte ich damals nicht gewettet.«</said></p>
+
+<p>Ich würde auch heute nicht darauf wetten, dachte ich, als ich uns von außen betrachtete. 
+Ich ließ mich, meinen starren Körper, dort sitzen, stieg in die Luft und atmete auf, als ich über der Glastischplatte schwebte.
+Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Verdacht zu erregen, dass ich abgehauen war.</p>
+
+    <said who="#val" toWhom="#als"><p>»Wir hatten also geheiratet und waren zu <persName>Tschepanow</persName> geworden. <persName ref="#kos">Kostja</persName> hatte keine Lust mehr, <persName><surname>Berman</surname></persName> zu heißen, 
+        er sagte, darum habe er ständig Ärger auf der Arbeit, und ich glaubte ihm, natürlich glaubte ich ihm, bin schließlich selber als <persName><surname>Pinkenzon</surname></persName> aufgewachsen. 
+        Woher der Name <persName><surname>Tschepanow</surname></persName> kam, frag mich nicht, gekauft, gemacht, irgendwer hat irgendwen geheiratet, irgendwas gab es da in der Familie. 
+        Seine Eltern fanden das gut, nur Opa nicht, sein Opa, der hat rumgeschrien, dass wir unsere Seele an die Christen verkaufen. 
+        Der hatte noch die Deutschen erlebt, verstehst du, bei dem stand eh alles ein wenig schräg seither, den eigenen Namen wegzugeben, 
+        war für den noch gleichbedeutend wie ab in <placeName>die Gaskammer</placeName>.</p>
+<!-- The names above Tschepanow is the new name from Berman. Indicating removing the Jewish last name of the character Ask Katia about this. Kostja's name was Pinkerson when growing up -->
+    Einmal im Monat kam er uns besuchen aus <placeName ref="#pod">Podmoskowje</placeName>, der Gegend, wo die alle herkamen, 
+        und <persName ref="#kos">Kostja</persName>s Mutter gab ihm danach Essen mit, damit er nicht verhungert, 
+    aber vorher hatte sie genau auf das Haltbarkeitsdatum geschaut und gab ihm nur das mit,
+    was wirklich weit über das Datum hinaus war.«</said>
+
+    <p>Das Ich unter mir lachte mechanisch auf. Sie schaute es an, sie hatte sich an das Blech meiner brechenden Stimme noch nicht gewöhnt. Wie auch. Sie fand es nicht lustig.</p>
+
+    <p>»<placeName ref="#tsc">Tschertanowo</placeName> war die äußerste Kruste der Stadt, du musstest nur ein Mal durch den <placeName>Wald</placeName>, und schon warst du in <placeName ref="#pod">Podmoskowje</placeName>.
+        Aber lauf die Strecke mal als alter Mann. Er tat es jedenfalls. 
+        Kam außer Puste bei uns an, setzte sich an den Tisch und aß mit beiden Händen.</p>
+
+    <said><p>Wir wohnten in diesem Drecksbezirk, unbetretbare Zone, da fuhren noch nicht mal Taxis freiwillig hin.
+        Das wusste ich damals natürlich nicht, als ich nach <placeName ref="#mos">Moskau</placeName> kam, jeden zweiten Tag entweder ein Toter oder eine Vergewaltigung im Haus, du denkst jetzt, ich übertreibe, das ist ein Segen, dass du das denken kannst. 
+        Dafür habe ich dich hierhergebracht, damit du mir diese Geschichten nicht glaubst und denkst, das muss übertrieben sein, dass die Sechzehnjährige von nebenan vergewaltigt und ermordet im <placeName>Treppenhaus</placeName> gefunden wurde,
+        und dem Nachbarn von gegenüber, einem Schuster, zwei Meter mal zwei Meter groß, dem hat man eine Flasche über den Schädel gezogen, 
+        um seine Tasche zu klauen, gleich vor unserem Haus, genau dort ist er verblutet. 
+        In seiner Tasche war natürlich kein Geld. Ein Kind ist aus dem siebten Stock gefallen oder rausgeworfen worden, ständig solche Geschichten.«</p></said>
+
+    <p>Ich hing im Schneidersitz über unseren Köpfen und genoss diese andere Perspektive, hier war ich noch nie gewesen, so hatte ich den <placeName>Raum</placeName> noch nie gesehen. 
+        <persName ref="#val">Valjas</persName> Gesicht wechselte permanent seine Konsistenz: Einmal sah es aus wie ein Wattebausch, dann wie das einer Pionierin, die ins Weltall fliegt. 
+        Sie hatte von oben gesehen eine eigenartige Pilzfrisur, und ich fragte mich, seit wann sie sich die Haare färbte. 
+        Das hätte ich sie fragen sollen und wie sie so schnell so viel abgenommen hat und was sie gerne aß, ich könnte für uns kochen.</p>
+
+    <p>Sie sagte: <said>»Ich habe die Schwiegereltern nie verstanden. 
+        Ich weiß nicht, wie die sich gefunden haben. Er schmächtig und klein, ein Wurm mit Stoppeln überall und diese unmögliche Schiebermütze, wie ein Straßenjunge,
+        der hat sie ja noch nicht mal zum Mittagsschlaf abgenommen.
+        Wenn er nicht gearbeitet hat, konnte er tagelang auf dem Bett liegen und an die Decke starren, und das war's. 
+        Er hat vielleicht noch ein Wasser getrunken und nichts gesagt, nichts gemacht, nur geatmet. 
+        Und die Schwiegermutter war ein Macher, die wusste immer, was sie wollte, und wäre ich nicht schwanger geworden, wäre sie auch weiter zur Arbeit gegangen. 
+        Sie hat gerne gearbeitet, ich glaube nicht, dass sie Hausfrau sein wollte, aber das war damals so, irgendwer musste bei den Kindern bleiben, in den Kindergarten konntest du deine Kinder nicht geben,
+        dann konntest du sie gleich selber vergiften, die kamen entweder krank oder tot zurück nach Hause, also blieb die Schwiegermutter bei euch, und ich ging arbeiten. 
+        Und sie putzte und kochte und zog euch auf und wusch eure Windeln mit den Händen. War ein Dienstmädchen für uns alle.«</said></p>
+
+    <p>Ich schaute mir die Winkel der Wände an, den Stuck an der Decke, der war abgetragen, aber die Spuren waren noch geblieben.</p>
+
+    <p><said>»Ich glaube, sie hat mir leidgetan.«</said></p>
+
+    <p>Hörte <persName ref="#val">Valja</persName> von irgendwo sagen: <said>»Die Schwiegereltern hatten nur einen einzigen Freund gehabt, der war aus demselben Dorf nach <placeName ref="#mos">Moskau</placeName> gezogen. 
+    Das war der Einzige, der mal bei uns zu Besuch war, der kam oft, und hätte ich nicht gewusst, dass die sich niemals mit einem Bettler abgegeben hätten, hätte ich darauf gewettet, dass er einer war. 
+    Er sah so aus, und er roch auch so. Ein Stiller war das, fast zärtlich zu den beiden, ich habe nie einen Menschen gesehen, der so mit ihnen gesprochen hat, schon gar nicht ihr eigener Sohn, und sie waren fast menschlich zu diesem einen Freund, ich erinnere mich jetzt nicht an den Namen. 
+    Allerdings kann es auch sein, dass er so oft kam, weil seine Frau immer Urin getrunken hat.«</said></p>
+
+    <p>Das Ich da unten lachte wieder, <persName ref="#val">Valja</persName> ignorierte das befremdliche Blechgeräusch, das aus ihm kam.</p>
+
+    <said><p>»Sie hat diese Harnstofftherapie gemacht, jahrelang, und er erzählte immer von dem Geruch und dass man es zu Hause nicht aushalten konnte. 
+        Es ist ja nicht nur so, dass man pinkelt und dann den Urin trinkt, nein, der muss da schon länger gestanden haben, frischer Urin hilft angeblich nicht. 
+        Der Arme musste immer weg von zu Hause, versteht man doch.</p>
+
+    <p>Ihr einziger Freund. Ich mochte den.«</p></said>
+
+<p>Sie erzählte weiter von ihren Schwiegereltern und deren Freunden und Freundesfreunden, das verstand ich.
+    Wenn man mich über mich selbst befragte, erzählte ich auch von anderen, täuschte vor, dass diese Erzählungen etwas über mich aussagen würden, und wusste gleichzeitig um die Hilflosigkeit des Versuches, Spuren zu verwischen.</p>
+
+<p>Ich hörte jetzt nur noch Bruchstücke: 
+    <said>»Dieser Freund ist nach <placeName>Amerika</placeName>. Als er kam und sagte, er wandere aus, war es vorbei mit der Herzlichkeit … Die haben irgendeinen Streit angefangen, 
+    von wegen er hätte sie beklaut, etwas aus der <placeName>Wohnung</placeName> mitgehen lassen … der hat ihnen die Füße geküsst, ihnen aus der Hand gegessen … 
+    angeblich hat er ein Radio aus der <placeName>Wohnung</placeName> rausgetragen, um es nach <placeName>Amerika</placeName> mitzunehmen, klar, man braucht nichts dringender als ein sowjetisches Radio, wenn man in die <placeName>USA</placeName> auswandert … irgendwann hieß es, 
+    er hat es tatsächlich rüber geschafft und ist jetzt tot …«</said></p>
+
+<p>Ich sah zur Seite, <persName>Schura</persName> schaute mir direkt in die Augen. 
+    Dieses Gemälde hatte mich schon immer eingeschüchtert, weil das Öl seine Pupillen aussehen ließ, als würden sie pulsieren. 
+    Ich schaute fragend zurück.</p>
+
+    <said><p><persName ref="#val">Valja</persName> sagte:»Wir hatten immer viel zu essen, so viel, dass ich gleich dreißig Kilo zugelegt habe im ersten Jahr in <placeName ref="#mos">Moskau</placeName>. 
+        Die haben mich gemästet, als wäre es ihnen peinlich, dass die Professorenenkelin so mager war, das waren ja Kriegskinder, da musste alles mit viel Fett und Kartoffeln sein.</p>
+
+<p>Die Schwiegermutter hat sich Butter auf die Hände geschmiert, damit sie nicht so rissig waren, den Geruch von sowjetischer Butter auf ihren Händen vergesse ich nicht. 
+Ich habe ihr einmal von meinem Ersparten eine Handcreme gekauft mit Rosenduft, die hat sie nicht aufgemacht, sondern gleich hinten im Schrank versteckt, 
+ich wette, sie hat sie irgendwem geschenkt, als sie über das Verfallsdatum drüber war.«</p></said>
+
+    <p>Ich riss meinen Blick von <persName ref="#sch">Schura</persName>s Gesicht los und schaute hinunter auf <persName ref="#val">Valja</persName>s Hände.
+       Dachte daran, wie gerne ich sie eincremen würde, jeden Finger befühlen, die Haut in den Zwischenräumen, über die Fingernägel fahren. Dann dachte ich an die Hände meines Ichs da unten, die rauer wurden, 
+       ich erschrak selbst manchmal über die Verhornung der Haut, wenn ich meine Hand in die andere legte, meistens im Halbschlaf, angewinkelt neben meinem Kopf, aber vielleicht war es auch einfach nur befremdlich, meine eigene Hand zu halten. 
+       Ich dachte daran, dass Valja nie merken würde, wie rau meine Haut wurde, weil wir uns nicht die Hand gaben und uns nur am Stoff anfassten, wenn wir uns umarmten.</p>
+
+    <p>Sie sagte: <said>»Ich durfte bei den Schwiegereltern keine Fotos von euch machen, weil die Schwiegermutter sagte, dann holt <persName>der Teufel</persName> eure Seele.
+        Darum gibt es so wenig Fotos von euch als Säuglinge … Die, die es gibt, habe ich selber … verhängte das Fenster in der Küche, schloss die Tür, dann war es dunkel genug, dann kam die Schwiegermutter rein, 
+        ging zum Kühlschrank, kramte darin lange rum, belichtete meine Negative und sagte, sie hätte jetzt so einen Appetit auf gekochten Schinken …«</said></p>
+
+    <p>Auf dem allerersten Foto von mir sieht man meinen nackten Kinderkörper mit mandelförmigen, weit aufgerissenen Augen und spitzem Kinn, der auf einem weißen Laken die Arme und Beine von sich streckt und versucht, sich aus eigener Kraft vom Bauch auf den Rücken zu drehen.
+        Es sieht aus, als würde ich fliegen.</p>
+
+    <p>Auf einem anderen, das lange bei meinen Großeltern in <placeName ref="#mos">Moskau</placeName> auf der Kommode stand, sieht man meinen schon fast ausgewachsenen flachen Körper mit einer geblümten Weste, offen über den nackten Schultern hängend. 
+        Ich halte einen Apfel in der einen Hand, meine andere Hand ist zur Faust geballt und leer. 
+        Ich trage eine weiße Kappe, die mir über die Ohren reicht, und schaue in die Kamera, als hätte ich etwas verloren. 
+        Und ich weiß nicht, ob ich es mir einbilde, aber ich erinnere mich an ein Farbfoto von mir und meinem Bruder, ich in Leggins und Unterhemd mit verschränkten Armen und <persName ref="#ant">Anton</persName> neben mir im goldenen Kleid, er tanzt.</p>
+
+<p>Ich zwang mich, wieder <persName ref="#val">Valja</persName> zuzuhören, ich hatte das Gefühl, das war ich ihr schuldig. 
+    Nähte die Halbsätze wieder zusammen. Von hier oben tat es nicht weh.</p>
+
+    <p><persName ref="#val">Valja</persName> sagte: <said>»Weißt du, dass man bei uns sagt, wenn man eine Vergewaltigung nicht verhindern kann, muss man lernen, sich zu entspannen? 
+        Ich habe das nie gelernt. Ich habe im <placeName>Krankenhaus</placeName> gelebt, ich bin da fast nie freiwillig rausgegangen, habe Überstunden gemacht, Konferenzen organisiert, 
+        was ich nicht alles gemacht habe, mit Patienten geredet bis morgens früh, um nicht wieder dahin zurückzumüssen – und <persName ref="#kos">Kostja</persName> hat immer auf mich gewartet, 
+        stand mit dem Auto vor der <placeName>Klinik</placeName> und ließ den Motor laufen,
+        und ich kam manchmal einfach nicht, manchmal ging ich raus und sagte, ich habe zu tun, und ging wieder rein.«</said></p>
+
+    <p><persName ref="#val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Ich kann mich an den ersten Edamer Käse erinnern, in dickem, rotem Paraffinüberzug,
+        den <persName>Kostja</persName> mir mitgebracht hat. Ich kann mich an den Geschmack erinnern. Ich kannte nur zwei Sorten Käse, bis ich fünfundzwanzig war, Kolbasnyj und Rossijskij, 
+        und da kam diese Exotik ins Haus, ich habe mich so über das Geschenk gefreut, bin ihm um den Hals gefallen. 
+        Er hat mich sein Äffchen genannt und brachte von da an öfters Käse mit nach Hause, woher auch immer er ihn hatte.«</said></p>
+
+    <p><persName ref="#val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Die Idee mit der Emigration kam ihm, glaube ich, zuerst, jedenfalls war er der Erste, der es ausgesprochen hat. 
+        Da waren Panzer auf dem <placeName>Roten Platz</placeName>, wir haben jeden Tag mit einem Bürgerkrieg gerechnet oder mit einem Umsturz oder was auch immer es sein wird – man weiß ja, wer als Erstes eins auf die Fresse bekommt. 
+        Da war eine ganze Welle, die nach <placeName ref="#isr">Israel</placeName> gegangen ist, es kamen massenhaft Einladungen, im Sinne von: Bei euch ist es unruhig und gefährlich, bei uns wachsen Mangos an den Bäumen. 
+        Die nahmen alle auf. Ob Juden, ob Russen, die sich gerade einen Namen gekauft hatten, der auf -berg oder -man oder -stein endete. 
+        Die nahmen alles, was nach Jude klang und in die Wüste wollte. 
+        Ich weiß noch, wie die Schwiegermutter sagte: <q><said who="#val" toWhom="#emm">›Das ist ein Trick! Die Russen wollen rauskriegen, wo Juden wohnen! Sie registrieren euch und transportieren euch ab! Denkt ihr, sie fahren die nach <placeName ref="#isr">Israel</placeName>? 
+            Wie blöd kann man sein! In die <placeName>Gulags</placeName> werden die gebracht, in die <placeName>Gulags</placeName>.‹</said></q>«</said></p>
+<!--  I think Valja's mother in law is Emma i need to double check this -->
+<p>Und hier lachte <persName ref="#val">Valja</persName>. Es kam ganz unvermittelt aus ihr raus, sie war selber davon überrascht und hielt sich den Mund mit einer Hand zu, mit der anderen suchte sie nach etwas auf dem Schreibtisch, was sie nicht greifen konnte. 
+    Das Glucksen kam tief aus ihrem Rachen und mischte sich mit einem schrillen Ton.</p>
+
+<p>»In der <placeName>Botschaft</placeName> sagten sie uns, wir brauchen die Unterschrift der Eltern. Sie mussten einverstanden sein damit, dass wir das Land verließen. 
+    Kinder waren Altersvorsorge, was glaubst du, warum man so viele gemacht hat.Mit dem, was der Staat dir als Rente zahlte, hätte es bis ans Lebensende nur für Milch und Brot gereicht, darum mussten die Alten unterschreiben, dass sie auf ihre Kinder verzichten. 
+    Meine haben gesagt, sie unterschreiben alles, aber <persName ref="#kos">Kostja</persName>s sagten: <q><said>›Denkt nicht mal dran.‹</said></q></p>
+
+<p>Man konnte die Unterschriften natürlich fälschen. 
+Einfach jemandem was auf die Hand geben, und der stellt dir aus, was du haben willst.
+Aber <persName ref="#kos">Kostja</persName>s Eltern wussten das, sie drohten, uns zu melden, dann wäre es aus gewesen, die Tür in den Westen für immer zu.</p>
+
+<p><persName ref="#kos">Kostja</persName> hat immer wieder versucht, auf seinen Vater einzureden, und der hat dann Märchen von seinem Leben auf dem Dorf ausgepackt, wie schlimm es ihnen allen ergangen ist, wie viel sie für uns geopfert haben und dass wir völlig den Verstand verloren haben, zu den Deutschen zu gehen, wo unser, also das sowjetische Blut noch an den Bürgersteigen klebt. 
+    Ich habe es selbst auch versucht, habe ganz ruhig auf ihn eingeredet und gesagt, wenn es nicht klappt, kommen wir wieder, wir kommen ganz sicher wieder, ist doch nicht weit, man kann den Zug oder das Flugzeug nehmen und ist gleich da, wenn was ist.
+    Er unterbrach mich mit einem Gesicht, das sehe ich noch heute vor mir: <q><said who="#dan" toWhom="#val">›Keiner sagt jetzt was außer mir.‹</said></q> Dann nahm er das Messer in die Hand.</p>
+<!-- Again double check who Kostya's father is -->
+<p>Der Schwiegervater war ja nicht ohne, er war zwar klein und schmächtig, dass du meinen konntest, du kannst ihn in deiner Achselhöhle zerquetschen, aber der hat angeblich in der Armee Sachen gemacht, also angeblich hat er Kameraden gefoltert. 
+    Hat ihnen heißes Öl in die Augen gegossen. Daran musste ich denken, als er mit dem Messer dastand.
+    <persName ref="#kos">Kostja</persName> hat ihm natürlich sofort den Tisch ins Gesicht …</p>
+
+    <p>Ich schrie, die Schwiegermutter schrie, und du und <persName ref="#ant">Anton</persName> standet im <placeName>Türrahmen</placeName>, ich kann mich daran erinnern, dass ich eure Gesichter gesehen habe und sofort aufgehört habe, zu schreien, und dann die Schwiegermutter und dann <persName ref="#kos">Kostja</persName> und dann der Schwiegervater, wir haben alle in eure Richtung geschaut, wie ihr dastandet und uns angeschaut habt.«</p>
+
+    <p>Vor mir blitzte eine Messerklinge auf, ich sah meinen Vater einen Tisch durch <placeName>die Küche</placeName> schleudern, ich sah die erstarrten Gesichter, weil ich sie von Fotografien kannte, ich rief Bilder ab, von denen ich dachte, dass ich sie jetzt haben musste.</p>
+
+   <p><persName ref="#val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Ich hatte keine Vorstellung von <placeName>Deutschland</placeName>. Ich hatte keine Vorstellung von irgendwas, habe mir nichts ausgemalt, mir nichts gewünscht. Man sagt, man will eine goldene Zukunft für die Kinder, ja, ja, das ist richtig, aber das ist nicht, was man dann denkt. 
+        Man denkt gar nichts. Man fühlt sich wie ein Stein, der rollt.«</said></p>
+
+<p>Ich schwebte über uns und sah zu, wie dieses andere Ich von mir meiner Mutter zuhörte, als sie vom Umzug erzählte. 
+Es saß sehr gerade, sie auch. Ich konnte uns nicht genau verstehen, wir sprachen merkwürdig versetzt. 
+Ich sah wieder in <persName ref="pers:sch">Schura</persName>s lila Augen auf der Höhe meiner Stirn. Redest du mit mir, alter Mann? Rede mit mir, sag doch was. 
+    Ich vermisse dich, ich vermisse es, mit dir zu reden. Aber <persName ref="#sch">Schura</persName> sagte nichts, und seine Augen waren auf dem Gemälde nicht lila. 
+    Ich sah wieder hinunter auf Kind und Mutter, wie sie einander spiegelnd voreinander saßen, ich sah noch einmal sehr deutlich, wie ähnlich wir uns sahen, vor allem in der Art, 
+    wie wir unsere Arme parallel neben unserem Körper runterhängen ließen, in den Ellbogengelenken leicht angewinkelt.</p>
+
+<p>Ich sah <persName ref="#als">Ali</persName>, der jetzt, plötzlich, als er seiner Mutter gegenübersaß, auch <persName ref="#als">Alissa</persName> hätte sein können. 
+    Das machte die gewohnte Umgebung, er schwankte zwischen den Zeiten, zwischen den Körpern, er war leer. Ich hörte, wie seine Mutter davon erzählte, dass die Wände der ersten Wohnung in Deutschland feucht waren, wie die Schwiegermutter aus <placeName>Moskau</placeName> zu Besuch kam und sie, <persName ref="#val">Valja</persName>, daraufhin einen Schlaganfall erlitt. Ich hörte, wie sie erzählte, dass ihr Vater <persName ref="#dan">Daniil</persName> sie im Rollstuhl durch die kleine westdeutsche Stadt schob, in der wir damals wohnten, weil sie wochenlang nicht gehen konnte.
+    In den Sonnenflecken der kleinen Parkanlage, durch die er sie schob, schliefen viele alte Menschen in Rollstühlen. Da war <persName>Valja</persName> noch nicht vierzig. 
+    Ich hörte sie erzählen, dass ihr rechter Mundwinkel sich nie ganz von dem Schlaganfall erholt hat. Ich sah, dass <persName ref="#als">Ali</persName> sich leicht nach vorne beugte, um den Mundwinkel der Mutter so unauffällig wie möglich auf Spuren zu untersuchen, aber alles, was ihm auffiel, waren die vielen Fältchen auf der Oberlippe, wie geschreddertes Papier.</p>
+
+    <p><persName ref="#val">Valja</persName> erzählte, dass sie in dieser Zeit zu ihren Eltern gezogen war und dass ihr Mann gekommen war und ihr die Kinder weggenommen hatte. 
+        Er brachte sie erst zurück, als sie drohte, die Scheidung einzureichen. 
+        Ich sah von schräg oben in <persName ref="#als">Ali</persName>s regungsloses Gesicht mit seiner großen Nase und dem spitzen Kinn, zwischen dem Kinn und der Unterlippe war ein tiefes Grübchen, aus dem schwarze Haare sprossen. 
+        Er blickte stumm seine Mutter an, die ihm von ihrer Tochter erzählte, die, nachdem ihr Vater sie, <persName ref="#val">Valja</persName>, mit roten Augäpfeln aus <placeName>der Wohnung</placeName> geschleift hatte, so verstört gewesen war, dass sie für Wochen aufhörte, zu sprechen. <persName ref="#als">Ali</persName> blinzelte verständnislos.</p>
+
+    <p>Ich hing in der Luft, die Zeit stockte, dann stolperte sie wie gerafft an meiner Nase vorbei. 
+        Dort oben in der Luft schwebend, streckte ich meinen Arm aus und fuhr über den Bilderrahmen um <persName ref="#sch">Schura</persName>s Gesicht, betrachtete meine Fingerkuppen, die feinen grauen Staubschlieren, ich rieb sie gegeneinander, der Staub bildete Kügelchen, ich schnipste sie weg über die Köpfe unter mir. 
+        Nichts ergab Sinn. Ich hörte, wie <persName ref="#val">Valja</persName> <persName>Ali</persName> Vorwürfe machte, dass er gekommen war, um Fragen zu stellen. 
+        Auf <persName ref="#val">Valjas</persName> Art. Sie sagte nicht, dass es anmaßend sei oder dass er niemals verstehen würde, aus welcher Welt sie kam, nicht einmal, dass es über ihre Kräfte ging, ihm das alles zu erzählen, sie sagte so etwas sehr Russisches wie: <said who="#val" toWhom="#als">»Die Erinnerung ist ein Parasit, fang ihn dir lieber nicht ein, sonst geht es dir wie mir, kannst gar nicht aufhören. Ich –«</said></p>
+
+    <p><said who="#ant" aloud="false">»Ich«</said> ist im Russischen nur ein Buchstabe: <lang xml:lang="ru">Я</lang>. Ein einziger Buchstabe in einem dreiunddreißigstelligen Alphabet. Der letzte. Man sagt: <lang xml:lang="ru">Я</lang> ist der letzte Buchstabe im Alphabet, also stell dich hinten an, vergiss dich, nimm dich nicht so wichtig, lös dich auf. Mir schien, <persName ref="#val">Valja</persName> hatte diese Redensart vollkommen verinnerlicht. 
+    Sie war ganz hinten, und es ergab für sie einen Sinn, dass es so war. Für sie war es folgerichtig. Überhaupt gab es so etwas wie Folgerichtigkeit für sie, ein Ereignis musste zwangsläufig auf das andere folgen. 
+    Als sie mir ihr Leben oder jenen Ausschnitt, den sie weitergeben wollte, erzählte, spannte sie eine Kette von Begebenheiten, die für sie ganz natürlich schien, aber für mich trotz der Unbeirrtheit in ihrer Stimme kaum nachvollziehbar war. 
+    Meine Gedanken sprangen Himmel und Hölle, versuchten, nicht auf den Linien zu landen. Ein Я konnte ich nicht denken, das merkte ich, als meine Mutter mir ihr Bild von sich zeichnete. Ich konnte es nicht einordnen.</p> 
+
+<p>Mein Name fängt mit dem ersten Buchstaben des Alphabets an und ist ein Schrei, ein Stocken, ein Fallen, ein Versprechen auf ein B und ein C, die es nicht geben kann in der Kausalitätslosigkeit der Geschichte.
+Ein Denkfehler, zu glauben, die, die gemeinsame Stationen durchlaufen, kommen als ein Gemeinsames irgendwo an. 
+Ich kenne viele mit meiner Biographie, sie haben andere Kerben in ihren Gesichtern, tragen andere Kleidung, spielen Musikinstrumente, essen bei ihren Eltern am Sonntag Heringssalat, können danach die Nacht durchschlafen, haben Berufe, kaufen Wohnungen, fahren in den Süden, um Urlaub zu machen, und kehren am Ende des Sommers an Orte zurück, die sie Zuhause nennen. 
+Ich dagegen fühle mich unfähig, verbindliche Aussagen zu treffen, eine Perspektive einzunehmen, eine Stimme zu entwickeln, die nur die meine wäre und für mich sprechen würde. 
+Ein festgeschriebenes <lang xml:lang="ru">Я</lang>.</p>
+
+    <p>Zeit ist für mich eine Drehscheibe. Bilder verschwimmen vor meinen Augen, und immer aufs Neue stelle ich Vermutungen darüber an, wie irgendetwas vielleicht ausgesehen haben könnte, wie die Straßen hießen, in denen ich nie gewesen bin, die Treppen der Städte, die Boote, die leer blieben. Versuche, die auseinanderzuhalten, deren Namen sich über Jahrhunderte immer wiederholten.</p>
+
+    <p>Ich erdenke mir neue Personen, wie ich mir alte zusammensetze. Stelle mir das Leben meines Bruders vor, stelle mir vor, er würde all das tun, wozu ich nicht in der Lage gewesen bin, sehe ihn als einen, der hinauszieht in die Welt, weil er den Mut besitzt, der mir immer gefehlt hat, und ich vermisse ihn.</p>
+
+<p>Und was habe ich getan, als ich gedacht habe, er ruft mich? 
+    Ich bekam diesen Wink, ich missdeutete die Zeichen und zögerte, tippelte vorsichtig, tat alles, um meine Anspannung zu betäuben, sie in mir zu vergraben, legte mich auf ein Sofa, das mich auffressen sollte, bewegte mich kaum und wartete, denn was ist Warten sonst als eine Hoffnung.</p>
+</div>  
+    </div>               
+       </body> 
+   </text>
+</TEI>
+
