@@ -240,7 +240,7 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
     Wenn man mich über mich selbst befragte, erzählte ich auch von anderen, täuschte vor, dass diese Erzählungen etwas über mich aussagen würden, und wusste gleichzeitig um die Hilflosigkeit des Versuches, Spuren zu verwischen.</p>
 
 <p>Ich hörte jetzt nur noch Bruchstücke: 
-    <said>»Dieser Freund ist nach <placeName>Amerika</placeName>. Als er kam und sagte, er wandere aus, war es vorbei mit der Herzlichkeit … Die haben irgendeinen Streit angefangen, 
+    <said who="#val" toWhom="#als">»Dieser Freund ist nach <placeName>Amerika</placeName>. Als er kam und sagte, er wandere aus, war es vorbei mit der Herzlichkeit … Die haben irgendeinen Streit angefangen, 
     von wegen er hätte sie beklaut, etwas aus der <placeName>Wohnung</placeName> mitgehen lassen … der hat ihnen die Füße geküsst, ihnen aus der Hand gegessen … 
     angeblich hat er ein Radio aus der <placeName>Wohnung</placeName> rausgetragen, um es nach <placeName>Amerika</placeName> mitzunehmen, klar, man braucht nichts dringender als ein sowjetisches Radio, wenn man in die <placeName>USA</placeName> auswandert … irgendwann hieß es, 
     er hat es tatsächlich rüber geschafft und ist jetzt tot …«</said></p>
@@ -259,9 +259,9 @@ ich wette, sie hat sie irgendwem geschenkt, als sie über das Verfallsdatum drü
     <p>Ich riss meinen Blick von <persName ref="pers:sch">Schura</persName>s Gesicht los und schaute hinunter auf <persName ref="pers:val">Valja</persName>s Hände.
        Dachte daran, wie gerne ich sie eincremen würde, jeden Finger befühlen, die Haut in den Zwischenräumen, über die Fingernägel fahren. Dann dachte ich an die Hände meines Ichs da unten, die rauer wurden, 
        ich erschrak selbst manchmal über die Verhornung der Haut, wenn ich meine Hand in die andere legte, meistens im Halbschlaf, angewinkelt neben meinem Kopf, aber vielleicht war es auch einfach nur befremdlich, meine eigene Hand zu halten. 
-       Ich dachte daran, dass Valja nie merken würde, wie rau meine Haut wurde, weil wir uns nicht die Hand gaben und uns nur am Stoff anfassten, wenn wir uns umarmten.</p>
+       Ich dachte daran, dass <persName ref="pers:val">Valja</persName> nie merken würde, wie rau meine Haut wurde, weil wir uns nicht die Hand gaben und uns nur am Stoff anfassten, wenn wir uns umarmten.</p>
 
-    <p>Sie sagte: <said>»Ich durfte bei den Schwiegereltern keine Fotos von euch machen, weil die Schwiegermutter sagte, dann holt <persName>der Teufel</persName> eure Seele.
+    <p>Sie sagte: <said who="#val" toWhom="#als">»Ich durfte bei den Schwiegereltern keine Fotos von euch machen, weil die Schwiegermutter sagte, dann holt <persName>der Teufel</persName> eure Seele.
         Darum gibt es so wenig Fotos von euch als Säuglinge … Die, die es gibt, habe ich selber … verhängte das Fenster in der Küche, schloss die Tür, dann war es dunkel genug, dann kam die Schwiegermutter rein, 
         ging zum Kühlschrank, kramte darin lange rum, belichtete meine Negative und sagte, sie hätte jetzt so einen Appetit auf gekochten Schinken …«</said></p>
 
@@ -276,13 +276,13 @@ ich wette, sie hat sie irgendwem geschenkt, als sie über das Verfallsdatum drü
 <p>Ich zwang mich, wieder <persName ref="pers:val">Valja</persName> zuzuhören, ich hatte das Gefühl, das war ich ihr schuldig. 
     Nähte die Halbsätze wieder zusammen. Von hier oben tat es nicht weh.</p>
 
-    <p><persName ref="pers:val">Valja</persName> sagte: <said>»Weißt du, dass man bei uns sagt, wenn man eine Vergewaltigung nicht verhindern kann, muss man lernen, sich zu entspannen? 
+    <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Weißt du, dass man bei uns sagt, wenn man eine Vergewaltigung nicht verhindern kann, muss man lernen, sich zu entspannen? 
         Ich habe das nie gelernt. Ich habe im <placeName>Krankenhaus</placeName> gelebt, ich bin da fast nie freiwillig rausgegangen, habe Überstunden gemacht, Konferenzen organisiert, 
         was ich nicht alles gemacht habe, mit Patienten geredet bis morgens früh, um nicht wieder dahin zurückzumüssen – und <persName ref="pers:kos">Kostja</persName> hat immer auf mich gewartet, 
         stand mit dem Auto vor der <placeName>Klinik</placeName> und ließ den Motor laufen,
         und ich kam manchmal einfach nicht, manchmal ging ich raus und sagte, ich habe zu tun, und ging wieder rein.«</said></p>
 
-    <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Ich kann mich an den ersten Edamer Käse erinnern, in dickem, rotem Paraffinüberzug,
+    <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#als">»Ich kann mich an den ersten Edamer Käse erinnern, in dickem, rotem Paraffinüberzug,
         den <persName ref="pers:kos">Kostja</persName> mir mitgebracht hat. Ich kann mich an den Geschmack erinnern. Ich kannte nur zwei Sorten Käse, bis ich fünfundzwanzig war, Kolbasnyj und Rossijskij, 
         und da kam diese Exotik ins Haus, ich habe mich so über das Geschenk gefreut, bin ihm um den Hals gefallen. 
         Er hat mich sein Äffchen genannt und brachte von da an öfters Käse mit nach Hause, woher auch immer er ihn hatte.«</said></p>
@@ -298,9 +298,9 @@ ich wette, sie hat sie irgendwem geschenkt, als sie über das Verfallsdatum drü
 <p>Und hier lachte <persName ref="pers:val">Valja</persName>. Es kam ganz unvermittelt aus ihr raus, sie war selber davon überrascht und hielt sich den Mund mit einer Hand zu, mit der anderen suchte sie nach etwas auf dem Schreibtisch, was sie nicht greifen konnte. 
     Das Glucksen kam tief aus ihrem Rachen und mischte sich mit einem schrillen Ton.</p>
 
-<p>»In der <placeName>Botschaft</placeName> sagten sie uns, wir brauchen die Unterschrift der Eltern. Sie mussten einverstanden sein damit, dass wir das Land verließen. 
+<p> <said>»In der <placeName>Botschaft</placeName> sagten sie uns, wir brauchen die Unterschrift der Eltern. Sie mussten einverstanden sein damit, dass wir das Land verließen. 
     Kinder waren Altersvorsorge, was glaubst du, warum man so viele gemacht hat.Mit dem, was der Staat dir als Rente zahlte, hätte es bis ans Lebensende nur für Milch und Brot gereicht, darum mussten die Alten unterschreiben, dass sie auf ihre Kinder verzichten. 
-    Meine haben gesagt, sie unterschreiben alles, aber <persName ref="pers:kos">Kostja</persName>s sagten: <q><said>›Denkt nicht mal dran.‹</said></q></p>
+    Meine haben gesagt, sie unterschreiben alles, aber <persName ref="pers:kos">Kostja</persName>s sagten: <q>›Denkt nicht mal dran.‹</q></said></p>
 
 <p>Man konnte die Unterschriften natürlich fälschen. 
 Einfach jemandem was auf die Hand geben, und der stellt dir aus, was du haben willst.
