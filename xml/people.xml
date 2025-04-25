@@ -42,6 +42,7 @@
                   <person xml:id="ely" sex="male"><persName><forename>Elyas</forename></persName></person>
                   <person xml:id="cem" sex="male"><persName><forename>Cemal</forename></persName></person>
                   <person xml:id="dsc" sex="female"><persName><forename>Dascha</forename></persName></person>
+                  <person xml:id="Iwa" sex="male"><persName><forename>Iwan</forename></persName></person>
                </listPerson>
          </div>      
       </body>
