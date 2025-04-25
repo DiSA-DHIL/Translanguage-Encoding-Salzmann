@@ -320,7 +320,7 @@ Aber <persName ref="pers:kos">Kostja</persName>s Eltern wussten das, sie drohten
 
    <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Ich hatte keine Vorstellung von <placeName>Deutschland</placeName>. Ich hatte keine Vorstellung von irgendwas, habe mir nichts ausgemalt, mir nichts gewünscht. Man sagt, man will eine goldene Zukunft für die Kinder, ja, ja, das ist richtig, aber das ist nicht, was man dann denkt. 
         Man denkt gar nichts. Man fühlt sich wie ein Stein, der rollt.«</said></p>
-
+    <!-- figure out how to mark this internal dialogue, below -->
 <p>Ich schwebte über uns und sah zu, wie dieses andere Ich von mir meiner Mutter zuhörte, als sie vom Umzug erzählte. 
 Es saß sehr gerade, sie auch. Ich konnte uns nicht genau verstehen, wir sprachen merkwürdig versetzt. 
 Ich sah wieder in <persName ref="pers:sch">Schura</persName>s lila Augen auf der Höhe meiner Stirn. Redest du mit mir, alter Mann? Rede mit mir, sag doch was. 
