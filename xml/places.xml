@@ -39,8 +39,15 @@
                <place><country xml:id="ami"><placeName>Amerikia</placeName></country></place>
                <place><placeName xml:id="rtp">Roten Platz</placeName></place>
                
-               
+               <!-- references to real places but not specifically in the city or location that the scene is not taking place in -->
                <place><placeName xml:id="gsk">die Gaskammer</placeName></place>
+               <place><placeName xml:id="gul">Gulag</placeName></place>
+               <!-- places within Moskau -->
+               <place><placeName xml:id="krv">Krankenhaus</placeName></place>
+               <place><placeName xml:id="klv">Klinik</placeName></place>
+               <place><placeName xml:id="bom">Botschaft</placeName></place>
+               <!-- Places within Volograd -->
+               <place></place>
             </listPlace>
       </body>
   </text>
