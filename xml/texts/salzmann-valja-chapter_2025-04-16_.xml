@@ -121,7 +121,7 @@
     <p><said who="als" aloud="false"></said>Das Aufkommen von Migräne merkte ich zuallererst am Licht. Es durchschnitt mir die Augäpfel, obwohl <placeName>das Zimmer</placeName>, in dem wir saßen, relativ dunkel war, <persName ref="pers:val">Valja</persName> mochte es dunkel, die Gardinen waren zugezogen. 
         Dann kam die Geräuschempfindlichkeit, ich wehrte mich dagegen, wollte nicht weg von <persName ref="pers:val">Valja</persName>, aber dann zirkulierten die Gerüche im Raum, ich begann, alles scharf zu riechen, <persName ref="pers:val">Valjas</persName> Parfüm brannte mir in der Nase.</p>
 
-<said who="#val" toWhom="#ali" aloud="true"><p>»Als ich da in <placeName ref="plc:mos">Moskau</placeName> ankam, wurde mir ein <placeName>Theater</placeName> vorgespielt, ich bin heute noch baff, dass sie sich so viel Mühe gegeben haben. Und dass ich es geschluckt habe. 
+<said who="#val" toWhom="#als" aloud="true"><p>»Als ich da in <placeName ref="plc:mos">Moskau</placeName> ankam, wurde mir ein <placeName>Theater</placeName> vorgespielt, ich bin heute noch baff, dass sie sich so viel Mühe gegeben haben. Und dass ich es geschluckt habe. 
     Ich fand <persName ref="pers:kos">Kostja</persName> zwar hässlich, Sommersprossen überall, ein Rothaariger, damals schon mit dickem Bauch, dünnen Ärmchen, aber dann setzte er sich ans Klavier und fing an zu spielen und schaute mir dabei in die Augen, presste die Lippen aufeinander, blähte die Nasenflügel, und die Eltern sangen mir dazu das Lied, was für innere Werte dieser sensible junge Mann habe, 
     wie belesen er sei, wie rücksichtsvoll er mit seinen Eltern umgehe, mit seinen Nachbarn, wie gern er ins <placeName>Theater</placeName> gehe und in die <placeName>Oper</placeName>.</p>
     
@@ -135,11 +135,11 @@
         Meine Schläfen drücken oft. Das lähmt mich für Tage. Aber ich wollte <persName ref="pers:val">Valja</persName> nicht belästigen mit der Kompliziertheit meiner Gefühle, die auf Testosteron Achterbahn fuhren, als wäre ich in einer permanenten Adoleszenz. 
         Ich war gekommen, um zuzuhören.</p> 
 
-    <p><said who="#val" toWhom="#als">»Ich erinnere mich, Mama rief zwischendurch an, die war wieder irgendwo, <placeName ref="plc:ung">Ungarn</placeName> oder <placeName>Tschechoslowakei</placeName>, und fragte, ob <persName ref="pers:kos">Kostja</persName> mir schon einen Heiratsantrag gemacht hatte. Und ich sagte, Mama, ich kenne ihn doch noch gar nicht, wir haben uns gerade erst kennengelernt. Und sie sagte, Gefühle kommen mit den Jahren, Tochter.«</said></p>
+    <p><said who="#val" toWhom="#als" aloud="true">»Ich erinnere mich, Mama rief zwischendurch an, die war wieder irgendwo, <placeName ref="plc:ung">Ungarn</placeName> oder <placeName>Tschechoslowakei</placeName>, und fragte, ob <persName ref="pers:kos">Kostja</persName> mir schon einen Heiratsantrag gemacht hatte. Und ich sagte, Mama, ich kenne ihn doch noch gar nicht, wir haben uns gerade erst kennengelernt. Und sie sagte, Gefühle kommen mit den Jahren, Tochter.«</said></p>
 
     <p>Plötzlich kriegte ich Angst vor einem Hörsturz, so wie damals, als ich verstanden habe, dass <persName ref="pers:ant">Anton</persName> wirklich weg war. Irgendetwas in mir begann zu rennen, lief gegen meine Innenwände und wollte unbedingt raus.</p>
 
-    <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#ali">»Schwanger geworden bin ich schnell. 
+    <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#als">»Schwanger geworden bin ich schnell. 
         Unsere Männer verhüten nicht, Abtreibung war das übliche Verhütungsmittel, aber nach der zweiten Abtreibung bei <persName ref="pers:iwa">Iwan</persName> hatte ich keine Lust mehr und ließ mir so eine hundertfünfzig Prozent sichere, sowjetisch geprüfte Spirale einsetzen. 
         Kaum war sie drin, wurde ich mit euch schwanger.«</said></p>
 
@@ -161,7 +161,7 @@
         Sie fror immer, ihr war immer kalt. Mir auch. Und bevor etwas platzen konnte, in mir, in meinen Ohren, haute ich ab.
     Ich ging raus aus mir. Mein Körper blieb starr vor <persName ref="pers:val">Valja</persName> sitzen, während ich aus mir heraussprang, nach draußen, ich war außerhalb, das Zuhören konnte mir nichts mehr anhaben.</said></p>
 
-    <p><said who="#val" toWhom="#ant" aloud="true">»Er hat seinen Geburtstag gefeiert und … Und auf jeden Fall … früh einsetzende Wehen, 
+    <p><said who="#val" toWhom="#als" aloud="true">»Er hat seinen Geburtstag gefeiert und … Und auf jeden Fall … früh einsetzende Wehen, 
         in unserem Auto kein Sprit, er noch völlig besoffen, der Krankenwagen kam dann nach zwei Stunden oder drei oder vier.
         Ab in den <placeName>Kreißsaal</placeName>, wo schon fünfzehn andere Kühe im Kreis lagen mit gespreizten Beinen und muhten. 
         Und ich mit Hämatomen am ganzen Körper und hatte das Gefühl, das Köpfchen guckt schon raus, deins, das war dein Köpfchen,
@@ -170,7 +170,7 @@
     <p><persName ref="pers:val">Valja</persName> sah auf die <placeName>Wand</placeName> hinter mir, sah nicht, 
         dass ich ihr wieder entwischte, mich verabschiedete, sie redete durch meinen Körper hindurch, immer weiter.</p>
 
-    <p><said who="#val" toWhom="#ant" aloud="true">»Zuerst gab es keine Liege für mich, ich habe mir gewünscht, irgendwer würde mich tragen, weil ich Angst hatte, dass ich das Köpfchen, 
+    <p><said who="#val" toWhom="#als" aloud="true">»Zuerst gab es keine Liege für mich, ich habe mir gewünscht, irgendwer würde mich tragen, weil ich Angst hatte, dass ich das Köpfchen, 
         das da aus mir rauskommt, zerquetsche beim Gehen, dann riss ich auch noch komplett auf, du hast mich aufgerissen, 
         ich hatte das Gefühl, entweder ich zerquetsche dich, oder du zerreißt mich.
         Pressen, drücken, reißen. Und da sind wir heute. Wir haben es geschafft, darauf hätte ich damals nicht gewettet.«</said></p>
@@ -181,7 +181,7 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
 
     <said who="#val" toWhom="#als" aloud="true"><p>»Wir hatten also geheiratet und waren zu <persName><surname>Tschepanow</surname></persName> geworden. <persName ref="pers:kos">Kostja</persName> hatte keine Lust mehr, <persName ref="pers:kos"><surname>Berman</surname></persName> zu heißen, 
         er sagte, darum habe er ständig Ärger auf der Arbeit, und ich glaubte ihm, natürlich glaubte ich ihm, bin schließlich selber als <persName ref="pers:val"><surname type="maidenname">Pinkenzon</surname></persName> aufgewachsen. 
-        Woher der Name <persName ref="pers:Kos"><surname>Tschepanow</surname></persName> kam, frag mich nicht, gekauft, gemacht, irgendwer hat irgendwen geheiratet, irgendwas gab es da in der Familie. 
+        Woher der Name <persName ref="pers:kos"><surname>Tschepanow</surname></persName> kam, frag mich nicht, gekauft, gemacht, irgendwer hat irgendwen geheiratet, irgendwas gab es da in der Familie. 
         Seine Eltern fanden das gut, nur Opa nicht, sein Opa, der hat rumgeschrien, dass wir unsere Seele an die Christen verkaufen. 
         Der hatte noch die Deutschen erlebt, verstehst du, bei dem stand eh alles ein wenig schräg seither, den eigenen Namen wegzugeben, 
         war für den noch gleichbedeutend wie ab in <placeName>die Gaskammer</placeName>.</p>
@@ -208,7 +208,7 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
         Sie hatte von oben gesehen eine eigenartige Pilzfrisur, und ich fragte mich, seit wann sie sich die Haare färbte. 
         Das hätte ich sie fragen sollen und wie sie so schnell so viel abgenommen hat und was sie gerne aß, ich könnte für uns kochen.</p>
 
-    <p>Sie sagte: <said who="#val" toWhom="#ant">»Ich habe die Schwiegereltern nie verstanden. 
+    <p>Sie sagte: <said who="#val" toWhom="#als">»Ich habe die Schwiegereltern nie verstanden. 
         Ich weiß nicht, wie die sich gefunden haben. Er schmächtig und klein, ein Wurm mit Stoppeln überall und diese unmögliche Schiebermütze, wie ein Straßenjunge,
         der hat sie ja noch nicht mal zum Mittagsschlaf abgenommen.
         Wenn er nicht gearbeitet hat, konnte er tagelang auf dem Bett liegen und an die Decke starren, und das war's. 
@@ -220,7 +220,7 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
 
     <p>Ich schaute mir die Winkel der Wände an, den Stuck an der Decke, der war abgetragen, aber die Spuren waren noch geblieben.</p>
 
-    <p><said aloud="true" who="val" toWhom="ant">»Ich glaube, sie hat mir leidgetan.«</said></p>
+    <p><said aloud="true" who="val" toWhom="als">»Ich glaube, sie hat mir leidgetan.«</said></p>
 
     <p>Hörte <persName ref="pers:val">Valja</persName> von irgendwo sagen: <said who="val" toWhom="ant" aloud="true">»Die Schwiegereltern hatten nur einen einzigen Freund gehabt, der war aus demselben Dorf nach <placeName ref="plc:mos">Moskau</placeName> gezogen. 
     Das war der Einzige, der mal bei uns zu Besuch war, der kam oft, und hätte ich nicht gewusst, dass die sich niemals mit einem Bettler abgegeben hätten, hätte ich darauf gewettet, dass er einer war. 
@@ -229,7 +229,7 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
 
     <p><said who="als" aloud="false">Das Ich da unten lachte wieder, <persName ref="pers:val">Valja</persName> ignorierte das befremdliche Blechgeräusch, das aus ihm kam.</said></p>
 
-    <said who="#val" toWhom= "ant" aloud="true"><p>»Sie hat diese Harnstofftherapie gemacht, jahrelang, und er erzählte immer von dem Geruch und dass man es zu Hause nicht aushalten konnte. 
+    <said who="#val" toWhom= "als" aloud="true"><p>»Sie hat diese Harnstofftherapie gemacht, jahrelang, und er erzählte immer von dem Geruch und dass man es zu Hause nicht aushalten konnte. 
         Es ist ja nicht nur so, dass man pinkelt und dann den Urin trinkt, nein, der muss da schon länger gestanden haben, frischer Urin hilft angeblich nicht. 
         Der Arme musste immer weg von zu Hause, versteht man doch.</p>
 
@@ -248,19 +248,19 @@ Die leere Hülle von mir achtete darauf, regelmäßig zu blinzeln, um keinen Ver
     Dieses Gemälde hatte mich schon immer eingeschüchtert, weil das Öl seine Pupillen aussehen ließ, als würden sie pulsieren. 
     Ich schaute fragend zurück.</p>
 
-    <said><p><persName ref="pers:val">Valja</persName> sagte:»Wir hatten immer viel zu essen, so viel, dass ich gleich dreißig Kilo zugelegt habe im ersten Jahr in <placeName ref="plc:mos">Moskau</placeName>. 
+    <said who="#val" toWhom="#als" aloud="true"><p><persName ref="pers:val">Valja</persName> sagte:»Wir hatten immer viel zu essen, so viel, dass ich gleich dreißig Kilo zugelegt habe im ersten Jahr in <placeName ref="plc:mos">Moskau</placeName>. 
         Die haben mich gemästet, als wäre es ihnen peinlich, dass die Professorenenkelin so mager war, das waren ja Kriegskinder, da musste alles mit viel Fett und Kartoffeln sein.</p>
 
 <p>Die Schwiegermutter hat sich Butter auf die Hände geschmiert, damit sie nicht so rissig waren, den Geruch von sowjetischer Butter auf ihren Händen vergesse ich nicht. 
 Ich habe ihr einmal von meinem Ersparten eine Handcreme gekauft mit Rosenduft, die hat sie nicht aufgemacht, sondern gleich hinten im Schrank versteckt, 
 ich wette, sie hat sie irgendwem geschenkt, als sie über das Verfallsdatum drüber war.«</p></said>
 
-    <p>Ich riss meinen Blick von <persName ref="pers:sch">Schura</persName>s Gesicht los und schaute hinunter auf <persName ref="pers:val">Valja</persName>s Hände.
+    <p><said who="#als" aloud="false">Ich riss meinen Blick von <persName ref="pers:sch">Schura</persName>s Gesicht los und schaute hinunter auf <persName ref="pers:val">Valja</persName>s Hände.
        Dachte daran, wie gerne ich sie eincremen würde, jeden Finger befühlen, die Haut in den Zwischenräumen, über die Fingernägel fahren. Dann dachte ich an die Hände meines Ichs da unten, die rauer wurden, 
        ich erschrak selbst manchmal über die Verhornung der Haut, wenn ich meine Hand in die andere legte, meistens im Halbschlaf, angewinkelt neben meinem Kopf, aber vielleicht war es auch einfach nur befremdlich, meine eigene Hand zu halten. 
-       Ich dachte daran, dass <persName ref="pers:val">Valja</persName> nie merken würde, wie rau meine Haut wurde, weil wir uns nicht die Hand gaben und uns nur am Stoff anfassten, wenn wir uns umarmten.</p>
+       Ich dachte daran, dass <persName ref="pers:val">Valja</persName> nie merken würde, wie rau meine Haut wurde, weil wir uns nicht die Hand gaben und uns nur am Stoff anfassten, wenn wir uns umarmten.</said></p>
 
-    <p>Sie sagte: <said who="#val" toWhom="#als">»Ich durfte bei den Schwiegereltern keine Fotos von euch machen, weil die Schwiegermutter sagte, dann holt <persName>der Teufel</persName> eure Seele.
+    <p>Sie sagte: <said who="#val" toWhom="#ant" aloud="true" >»Ich durfte bei den Schwiegereltern keine Fotos von euch machen, weil die Schwiegermutter sagte, dann holt <persName>der Teufel</persName> eure Seele.
         Darum gibt es so wenig Fotos von euch als Säuglinge … Die, die es gibt, habe ich selber … verhängte das Fenster in der Küche, schloss die Tür, dann war es dunkel genug, dann kam die Schwiegermutter rein, 
         ging zum Kühlschrank, kramte darin lange rum, belichtete meine Negative und sagte, sie hätte jetzt so einen Appetit auf gekochten Schinken …«</said></p>
 
@@ -286,7 +286,7 @@ ich wette, sie hat sie irgendwem geschenkt, als sie über das Verfallsdatum drü
         und da kam diese Exotik ins Haus, ich habe mich so über das Geschenk gefreut, bin ihm um den Hals gefallen. 
         Er hat mich sein Äffchen genannt und brachte von da an öfters Käse mit nach Hause, woher auch immer er ihn hatte.«</said></p>
 
-    <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#als">»Die Idee mit der Emigration kam ihm, glaube ich, zuerst, jedenfalls war er der Erste, der es ausgesprochen hat. 
+    <p><persName ref="pers:val">Valja</persName> sagte: <said who="#val" toWhom="#als" aloud="true">»Die Idee mit der Emigration kam ihm, glaube ich, zuerst, jedenfalls war er der Erste, der es ausgesprochen hat. 
         Da waren Panzer auf dem <placeName xml:id="rtp">Roten Platz</placeName>, wir haben jeden Tag mit einem Bürgerkrieg gerechnet oder mit einem Umsturz oder was auch immer es sein wird – man weiß ja, wer als Erstes eins auf die Fresse bekommt. 
         Da war eine ganze Welle, die nach <placeName ref="plc:isr">Israel</placeName> gegangen ist, es kamen massenhaft Einladungen, im Sinne von: Bei euch ist es unruhig und gefährlich, bei uns wachsen Mangos an den Bäumen. 
         Die nahmen alle auf. Ob Juden, ob Russen, die sich gerade einen Namen gekauft hatten, der auf -berg oder -man oder -stein endete. 
@@ -313,7 +313,7 @@ Aber <persName ref="pers:kos">Kostja</persName>s Eltern wussten das, sie drohten
     Hat ihnen heißes Öl in die Augen gegossen. Daran musste ich denken, als er mit dem Messer dastand.
     <persName ref="pers:kos">Kostja</persName> hat ihm natürlich sofort den Tisch ins Gesicht …</p>
 
-    <p>Ich schrie, die Schwiegermutter schrie, und du und <persName ref="pers:ant">Anton</persName> standet im <placeName>Türrahmen</placeName>, ich kann mich daran erinnern, dass ich eure Gesichter gesehen habe und sofort aufgehört habe, zu schreien, und dann die Schwiegermutter und dann <persName ref="pers:kos">Kostja</persName> und dann der Schwiegervater, wir haben alle in eure Richtung geschaut, wie ihr dastandet und uns angeschaut habt.«</p>
+    <p>Ich schrie, die Schwiegermutter schrie, und du und <persName ref="pers:ant">Anton</persName>standet im <placeName>Türrahmen</placeName>, ich kann mich daran erinnern, dass ich eure Gesichter gesehen habe und sofort aufgehört habe, zu schreien, und dann die Schwiegermutter und dann <persName ref="pers:kos">Kostja</persName> und dann der Schwiegervater, wir haben alle in eure Richtung geschaut, wie ihr dastandet und uns angeschaut habt.«</p>
 
     <p>Vor mir blitzte eine Messerklinge auf, ich sah meinen Vater einen Tisch durch <placeName>die Küche</placeName> schleudern, ich sah die erstarrten Gesichter, weil ich sie von Fotografien kannte, ich rief Bilder ab, von denen ich dachte, dass ich sie jetzt haben musste.</p>
 
