@@ -36,6 +36,11 @@
                <place type="suburb"><placeName xml:id="tsc">Tschertanowo</placeName></place>
                <place><country xml:id="deu"><placeName>Deutschland</placeName></country></place>
                <place><country xml:id="ung"><placeName>Ungarn</placeName></country></place>
+               <place><country xml:id="ami"><placeName>Amerikia</placeName></country></place>
+               <place><placeName xml:id="rtp">Roten Platz</placeName></place>
+               
+               
+               <place><placeName xml:id="gsk">die Gaskammer</placeName></place>
             </listPlace>
       </body>
   </text>

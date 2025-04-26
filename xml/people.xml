@@ -31,8 +31,8 @@
                <listPerson type="fictional">
                   <person xml:id="ant" sex="male"><persName><forename>Anton</forename></persName></person>
                   <person xml:id="als" sex="female"><persName><forename>Alissa</forename></persName></person>
-                  <person xml:id="val" sex="female"><persName><forename>Valentina</forename></persName></person>
-                  <person xml:id="kos" sex="male"><persName><forename>Konstantin</forename></persName></person>
+                  <person xml:id="val" sex="female"><persName><forename>Valentina</forename><surname>Pinkenson/Tscheponow</surname></persName></person>
+                  <person xml:id="kos" sex="male"><persName><forename>Konstantin</forename><surname>Tscheponow/Berman</surname></persName></person>
                   <person xml:id="dan" sex="male"><persName><forename>Daniil</forename></persName></person>
                   <person xml:id="emm" sex="female"><persName><forename>Emma</forename></persName></person>
                   <person xml:id="sch" sex="male"><persName><forename>Schura</forename></persName></person>
@@ -42,7 +42,7 @@
                   <person xml:id="ely" sex="male"><persName><forename>Elyas</forename></persName></person>
                   <person xml:id="cem" sex="male"><persName><forename>Cemal</forename></persName></person>
                   <person xml:id="dsc" sex="female"><persName><forename>Dascha</forename></persName></person>
-                  <person xml:id="Iwa" sex="male"><persName><forename>Iwan</forename></persName></person>
+                  <person xml:id="iwa" sex="male"><persName><forename>Iwan</forename></persName></person>
                </listPerson>
          </div>      
       </body>
