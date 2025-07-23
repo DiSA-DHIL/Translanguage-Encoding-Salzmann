@@ -50,7 +50,7 @@
 			   <p>Braden is a PhD Candidate in the Department of Central, Eastern and Northern European Studies at the University of British Columbia. He is interested in queer German studies, Holocaust studies, Jewish studies, and digital humanities.</p></note>
               </persName>
            </person>
-           <person><persName>
+           <person xml:id="Katia1"><persName>
               <forename>Katherine</forename>
               <surname>Bowers</surname>
               <reg></reg>
@@ -106,7 +106,7 @@
     <p><said who="#als" aloud="false">Ich wusste nicht, ob es an ihrer Stimme lag, die hochrutschte, oder ob es meine Empfindlichkeit war, Schallwellen fingen an, mein Gehirn von der einen Innenseite des Schädels zur anderen zu schleudern. Etwas Pelziges kroch mir die Kehle hoch, meine Schläfen drückten nach außen, und ich merkte, wie meine Mutter, die gerade dabei war, sich mit Hilfe von Bruchstücken ihrer Geschichte selbst zusammenzusetzen, vor meinen Augen undeutlicher wurde. 
         Für einen Migräneanfall war jetzt nicht der richtige Zeitpunkt. Zusammenbrüche wurden bei uns in der Familie stets aufgeschoben, vertagt auf die Einsamkeit leerer Räume. Außerdem wusste ich, dass <persName ref="pers:val">Valja</persName> noch nicht mal richtig angefangen hatte.</said></p>
 
-    <p><said who="als" aloud="false"></said>Ich war ohne Vorahnungen gekommen, ich kam durch die Tür einer <placeName>Wohnung</placeName>, an die ich mehr Erinnerungen hatte, als ich dachte. Nur die Dimensionen, die Höhe der Decke, die Größe der Räume, auch die Möbel, erinnerte ich anders. <persName ref="pers:val">Valja</persName> saß auch nicht mehr am Küchentisch, wo ich sie immer vorfand in meiner Vorstellung, sie saß in ihrem Schlafzimmer am Schreibtisch, drückte ihren Rücken gegen die Glasplatte hinter ihr, ihre Hände lagen auf den Plastiklehnen des Drehstuhls, über ihr schaute <persName ref="pers:sch">Schura</persName> von einem Ölgemälde auf uns herunter, und ich liebte sie in diesen Augenblicken so sehr, dass es mich drängte, von der Bettkante herunterzurutschen und meinen Kopf auf ihre Knie zu legen, aber ich rührte mich nicht, weil ich sie nicht unterbrechen wollte.</p>
+    <p><said who="als" aloud="false"></said>Ich war ohne Vorahnungen gekommen, ich kam durch die Tür einer Wohnung, an die ich mehr Erinnerungen hatte, als ich dachte. Nur die Dimensionen, die Höhe der Decke, die Größe der Räume, auch die Möbel, erinnerte ich anders. <persName ref="pers:val">Valja</persName> saß auch nicht mehr am Küchentisch, wo ich sie immer vorfand in meiner Vorstellung, sie saß in ihrem Schlafzimmer am Schreibtisch, drückte ihren Rücken gegen die Glasplatte hinter ihr, ihre Hände lagen auf den Plastiklehnen des Drehstuhls, über ihr schaute <persName ref="pers:sch">Schura</persName> von einem Ölgemälde auf uns herunter, und ich liebte sie in diesen Augenblicken so sehr, dass es mich drängte, von der Bettkante herunterzurutschen und meinen Kopf auf ihre Knie zu legen, aber ich rührte mich nicht, weil ich sie nicht unterbrechen wollte.</p>
 
     <p><said who="val" toWhom="#als" aloud="true">»Aber ich denke doch, ich hätte mich wehren sollen, hätte in <placeName ref="plc:wol">Wolgograd</placeName> bleiben sollen, ich wollte ja gar nicht nach <placeName ref="plc:mos">Moskau</placeName>, alle dachten, man muss nach <placeName ref="plc:mos">Moskau</placeName> heiraten, ich nicht. 
         Ich war die Einzige, die das für bescheuert hielt, 
@@ -121,12 +121,12 @@
     <p><said who="als" aloud="false"></said>Das Aufkommen von Migräne merkte ich zuallererst am Licht. Es durchschnitt mir die Augäpfel, obwohl <placeName>das Zimmer</placeName>, in dem wir saßen, relativ dunkel war, <persName ref="pers:val">Valja</persName> mochte es dunkel, die Gardinen waren zugezogen. 
         Dann kam die Geräuschempfindlichkeit, ich wehrte mich dagegen, wollte nicht weg von <persName ref="pers:val">Valja</persName>, aber dann zirkulierten die Gerüche im Raum, ich begann, alles scharf zu riechen, <persName ref="pers:val">Valjas</persName> Parfüm brannte mir in der Nase.</p>
 
-<said who="#val" toWhom="#als" aloud="true"><p>»Als ich da in <placeName ref="plc:mos">Moskau</placeName> ankam, wurde mir ein <placeName>Theater</placeName> vorgespielt, ich bin heute noch baff, dass sie sich so viel Mühe gegeben haben. Und dass ich es geschluckt habe. 
+<said who="#val" toWhom="#als" aloud="true"><p>»Als ich da in <placeName ref="plc:mos">Moskau</placeName> ankam, wurde mir ein Theater vorgespielt, ich bin heute noch baff, dass sie sich so viel Mühe gegeben haben. Und dass ich es geschluckt habe. 
     Ich fand <persName ref="pers:kos">Kostja</persName> zwar hässlich, Sommersprossen überall, ein Rothaariger, damals schon mit dickem Bauch, dünnen Ärmchen, aber dann setzte er sich ans Klavier und fing an zu spielen und schaute mir dabei in die Augen, presste die Lippen aufeinander, blähte die Nasenflügel, und die Eltern sangen mir dazu das Lied, was für innere Werte dieser sensible junge Mann habe, 
-    wie belesen er sei, wie rücksichtsvoll er mit seinen Eltern umgehe, mit seinen Nachbarn, wie gern er ins <placeName>Theater</placeName> gehe und in die <placeName>Oper</placeName>.</p>
+    wie belesen er sei, wie rücksichtsvoll er mit seinen Eltern umgehe, mit seinen Nachbarn, wie gern er ins Theater gehe und in die Oper.</p>
     
-    <p>Am Anfang führte mich <persName ref="pers:kos">Kostja</persName> noch aus, tagsüber ins <placeName>Museum</placeName>, abends ins <placeName>Theater</placeName>, kannst du dir das vorstellen? <persName ref="pers:kos">Kostja</persName> im <placeName>Museum</placeName>? Und weißt du, was lustig war? Er hat ja damals schon so viel gefressen, immer vor dem Theaterbesuch alles durcheinander in sich reingeschaufelt, saure Sahne auf Rind mit Zwiebeln und all das, und während der Aufführung hatte er dann Blähungen, 
-        und ich meine, nicht nur an einem Abend, sondern tatsächlich an allen, an denen er mich ausgeführt hat. Also jedes Mal, wenn wir ins <placeName>Theater</placeName> gingen und das Licht ausging, ging das Orchester in seinem Bauch los, und entweder rülpste er, oder er furzte, und ich habe so gelitten, für ihn gelitten, er hat mir so leidgetan, verstehst du, ich dachte daran, wie unangenehm ihm das sein musste, der Arme will mir Avancen machen und blamiert sich vor der ganzen Stadt.
+    <p>Am Anfang führte mich <persName ref="pers:kos">Kostja</persName> noch aus, tagsüber ins <placeName>Museum</placeName>, abends ins Theater, kannst du dir das vorstellen? <persName ref="pers:kos">Kostja</persName> im Museum? Und weißt du, was lustig war? Er hat ja damals schon so viel gefressen, immer vor dem Theaterbesuch alles durcheinander in sich reingeschaufelt, saure Sahne auf Rind mit Zwiebeln und all das, und während der Aufführung hatte er dann Blähungen, 
+        und ich meine, nicht nur an einem Abend, sondern tatsächlich an allen, an denen er mich ausgeführt hat. Also jedes Mal, wenn wir ins Theater gingen und das Licht ausging, ging das Orchester in seinem Bauch los, und entweder rülpste er, oder er furzte, und ich habe so gelitten, für ihn gelitten, er hat mir so leidgetan, verstehst du, ich dachte daran, wie unangenehm ihm das sein musste, der Arme will mir Avancen machen und blamiert sich vor der ganzen Stadt.
         Aber heute denke ich, ihm ist das buchstäblich am Arsch vorbeigegangen. Was heißt, ich denke, ich weiß es mit Sicherheit.«</p></said>
     
     <p><said who="#als" aloud="false"></said>Immer wenn ich merke, dass es für Menschen eine Vorstellung von Welt gibt, auf die sie ohne Zweifel bauen, fühle ich mich allein. 
@@ -149,7 +149,7 @@
     Aber seit meine Schultern breiter geworden waren, die Muskeln an meinen Oberarmen deutlicher hervortraten und ich meine Mutter hochheben konnte zur Begrüßung, fragte sie nicht mehr.</p>
 
     <p><said who="#val" toWhom="#als" aloud="true">»Ich war darauf nicht vorbereitet, ich war total fertig, das ging mir zu schnell, ich wusste nicht, wo ich bin und mit wem ich bin, und dann musste noch viel schneller geheiratet werden als ohnehin geplant. 
-        Eigentlich dachten wir, wir machen alles im Sommer an der <placeName>Wolga</placeName>, aber weil ich schon schwanger war, mussten wir im Winter heiraten. Im Moskauer Winter, im Moskauer Dreck, den man auf der weißen Strumpfhose bis über die Knöchel hoch sah, so sind wir ins <placeName>Standesamt</placeName> gegangen. Weißt du, wie schwer es war, damals weiße Strumpfhosen zu bekommen? Das waren meine ersten Nylons. 
+        Eigentlich dachten wir, wir machen alles im Sommer an der <placeName>Wolga</placeName>, aber weil ich schon schwanger war, mussten wir im Winter heiraten. Im Moskauer Winter, im Moskauer Dreck, den man auf der weißen Strumpfhose bis über die Knöchel hoch sah, so sind wir ins Standesamt gegangen. Weißt du, wie schwer es war, damals weiße Strumpfhosen zu bekommen? Das waren meine ersten Nylons. 
         Ich habe Fleck für Fleck, Spritzer für Spritzer mit den Fingernägeln auf dem Damenklo versucht abzukratzen, ohne dass sie reißt. Hat nicht viel gebracht, auf den Hochzeitsfotos sehe ich aus wie ein Dalmatiner. Die Schwiegermutter hat sich noch lange lustig gemacht. 
         Und dann ging alles noch schneller, viel zu schnell. Von da an weiß ich nur – ihr seid gekommen. Zu früh.«</said></p>
 
@@ -163,11 +163,11 @@
 
     <p><said who="#val" toWhom="#als" aloud="true">»Er hat seinen Geburtstag gefeiert und … Und auf jeden Fall … früh einsetzende Wehen, 
         in unserem Auto kein Sprit, er noch völlig besoffen, der Krankenwagen kam dann nach zwei Stunden oder drei oder vier.
-        Ab in den <placeName>Kreißsaal</placeName>, wo schon fünfzehn andere Kühe im Kreis lagen mit gespreizten Beinen und muhten. 
+        Ab in den Kreißsaal, wo schon fünfzehn andere Kühe im Kreis lagen mit gespreizten Beinen und muhten. 
         Und ich mit Hämatomen am ganzen Körper und hatte das Gefühl, das Köpfchen guckt schon raus, deins, das war dein Köpfchen,
-        das weiß ich, wie ich da in den <placeName>Saal</placeName> marschiere.«</said></p>
+        das weiß ich, wie ich da in den Saal marschiere.«</said></p>
 
-    <p><persName ref="pers:val">Valja</persName> sah auf die <placeName>Wand</placeName> hinter mir, sah nicht, 
+    <p><persName ref="pers:val">Valja</persName> sah auf die Wand hinter mir, sah nicht, 
         dass ich ihr wieder entwischte, mich verabschiedete, sie redete durch meinen Körper hindurch, immer weiter.</p>
 
     <p><said who="#val" toWhom="#als" aloud="true">»Zuerst gab es keine Liege für mich, ich habe mir gewünscht, irgendwer würde mich tragen, weil ich Angst hatte, dass ich das Köpfchen, 
