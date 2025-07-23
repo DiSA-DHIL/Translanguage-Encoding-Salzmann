@@ -82,7 +82,7 @@
     
     <p><persName ref="pers:val">Valja</persName></p>
 
-<p><said who="#val" toWhom="#ali" aloud="true">»Ich habe <persName ref="pers:kos">Kostja</persName> kennengelernt an dem Tag, als er gerade sein Ingenieursdiplom nach Hause gebracht hatte, und so hat man ihn mir präsentiert: fertiger Mann mit fertigem Diplom, Arbeitsstelle gesichert, jetzt fehlte nur noch eine Frau, und nicht irgendeine, eine Jüdin musste es sein, und ich steh vor der Tür. 
+<p><said who="#val" toWhom="#als" aloud="true">»Ich habe <persName ref="pers:kos">Kostja</persName> kennengelernt an dem Tag, als er gerade sein Ingenieursdiplom nach Hause gebracht hatte, und so hat man ihn mir präsentiert: fertiger Mann mit fertigem Diplom, Arbeitsstelle gesichert, jetzt fehlte nur noch eine Frau, und nicht irgendeine, eine Jüdin musste es sein, und ich steh vor der Tür. 
     Kannst du dir das Bild vorstellen, ja? Die haben ihre Zähne in mich geschlagen, ich habe heute noch die Abdrücke davon. 
     Am vierten Tag hat <persName ref="pers:kos">Kostja</persName> mir einfach gesagt: Du bist meine Frau, der hat noch nicht mal gefragt, niemand hat mich je gefragt, und niemand hat auf meine Antwort gewartet. 
     Dabei hat er eine andere geliebt, eine Schickse, wie sie im Buche steht, das war seine große Liebe, hätte er doch nur damals die Eier gehabt, sie zu heiraten.«</said></p>

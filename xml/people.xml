@@ -30,7 +30,7 @@
             <div type="editorial">
                <listPerson type="fictional">
                   <person xml:id="ant" sex="male"><persName><forename>Anton</forename><surname>Tscheponow</surname></persName></person>
-                  <person xml:id="als" sex="female"><persName><forename>Alissa</forename>,surname>Tscheponow</persName></person>
+                  <person xml:id="als" sex="female"><persName><forename>Alissa</forename><surname>Tscheponow</surname></persName></person>
                   <person xml:id="val" sex="female"><persName><forename>Valentina</forename><surname>Pinkenson/Tscheponow</surname></persName></person>
                   <person xml:id="kos" sex="male"><persName><forename>Konstantin</forename><surname>Berman/Tscheponow</surname></persName></person>
                   <person xml:id="dan" sex="male"><persName><forename>Daniil</forename></persName></person>
